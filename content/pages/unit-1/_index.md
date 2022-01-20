@@ -1,0 +1,19 @@
+---
+content_type: page
+title: Unit 1
+uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+---
+
+« [Previous]({{< baseurl >}}/pages/references) | [Next](.{{< baseurl >}}/pages/unit-1/lecture-1-introduction-to-6.00) »
+
+We will start the semester by discussing the difference between imperative knowledge and definitional knowledge, between fixed program and stored program computers, and finally the definitions of syntax, static semantics, and semantics. We cover straight line, branching, and looping programs. Other topics include binary representation of numbers, orders of growth, and debugging programs.
+
+Python concepts covered in this unit include values, types, int, float, boolean, strings (str), tuples, dictionaries (dict), and lists. We will also learn about expressions and statements, especially how to effectively use print statements in your programs. Other topics include assignment, conditionals, loops, assert, functions, scope, object models, mutation, and mutability.
+
+By the end of Unit 1 you should be familiar with the following algorithmic techniques: guess and check, linear search, bisection search, successive approximation, and Newton-Raphson (Newton's method). You will also learn recursive definitions, problem solving techniques, and how to structure programs using decomposition and abstraction, including specifications and parameters.
+
+Unit 1 ends with a quiz covering all material (lectures, recitations, and problem sets) through [Efficiency and Order of Growth]({{< baseurl >}}/pages/unit-1/lecture-8-efficiency-and-order-of-growth).
+
+Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+
+« [Previous]({{< baseurl >}}/pages/references) | [Next](.{{< baseurl >}}/pages/unit-1/lecture-1-introduction-to-6.00) »
