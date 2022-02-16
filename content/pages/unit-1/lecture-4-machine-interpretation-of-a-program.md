@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Machine Interpretation of a Program
 uid: f13e5af9-52a2-f007-e596-f80bc01059fe

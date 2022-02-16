@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Introduction to Simulation and Random Walks
 uid: a7cc68bd-f5bd-3347-c014-209d6f7c9e17

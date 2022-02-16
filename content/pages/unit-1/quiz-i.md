@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Quiz 1
 uid: f47a2aad-b696-870f-d73f-2911223c7ebf

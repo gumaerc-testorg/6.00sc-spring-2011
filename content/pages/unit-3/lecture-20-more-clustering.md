@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 3
+parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: More Clustering
 uid: fc440c95-aa3e-3ffa-8cff-14461dc75eee

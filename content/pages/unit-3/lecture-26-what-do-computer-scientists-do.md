@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 3
+parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: What Do Computer Scientists Do?
 uid: bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab

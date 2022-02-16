@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: aa132f80-df80-dcc2-e350-0e9e999a3c25
 ---

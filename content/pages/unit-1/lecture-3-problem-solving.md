@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Problem Solving
 uid: 3c3069d4-e0ed-fe69-ce4f-6de217d649a5

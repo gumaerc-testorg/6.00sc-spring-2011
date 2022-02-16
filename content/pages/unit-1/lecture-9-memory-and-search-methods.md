@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Memory and Search Methods
 uid: 518bf74e-c414-e8ec-f4d5-55616396f6d0

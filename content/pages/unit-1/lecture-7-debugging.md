@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Debugging
 uid: ebde421e-0808-fd28-3195-0f1a9a69cfb3

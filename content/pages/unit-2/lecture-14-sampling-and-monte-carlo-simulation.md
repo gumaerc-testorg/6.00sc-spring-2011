@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Sampling and Monte Carlo Simulation
 uid: eb6bcb74-e4a6-c927-a72e-0bf586910c4c

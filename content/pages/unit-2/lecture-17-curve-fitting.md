@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Curve Fitting
 uid: e632ebd5-0e8f-47bb-2666-d9152f62e9e4

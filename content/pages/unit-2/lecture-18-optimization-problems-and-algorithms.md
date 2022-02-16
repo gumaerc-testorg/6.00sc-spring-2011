@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Optimization Problems and Algorithms
 uid: 9b324cb4-75a7-af8a-bf5a-0391414fa0b9
