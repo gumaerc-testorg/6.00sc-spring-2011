@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 3
@@ -7,9 +8,13 @@ parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: Using Graphs to Model Problems, Part 1
 uid: e1b5ff21-127d-fb30-33e3-98fce88c42e6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-20-more-clustering) | [Next]({{< baseurl >}}/pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2) »
+« {{% resource_link fc440c95-aa3e-3ffa-8cff-14461dc75eee "Previous" %}} | {{% resource_link d4f15989-167b-6654-ef5c-a2931d758afd "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![ses-21.jpg]({{< resource_file 60ac9bba-264e-4869-5fd6-4a52189ef432 >}})
+{{< resource 60ac9bba-264e-4869-5fd6-4a52189ef432 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -36,7 +41,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 21: Using Graphs to Model Problems, Part 1]({{< baseurl >}}/resources/lecture-21-using-graphs-to-model-problems-part-1)
+*   {{% resource_link fb62179f-6316-19bb-2694-4725975e3042 "Lecture 21: Using Graphs to Model Problems, Part 1" %}}
 
 > ### About this Video
 > 
@@ -44,9 +49,9 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec21)
-> *   [Lecture slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21_slides)
+> *   {{% resource_link 0ceac7c1-7f78-3549-ea4a-e2eec5f0112b "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 78807f07-6347-27bc-6c50-0f3a475542c7 "Lecture code (PY)" %}}
+> *   {{% resource_link "03b3f2e0-3d53-422b-5100-b4f06b577dde" "Lecture slides (PDF)" %}}
 
 Check Yourself
 --------------
@@ -111,4 +116,4 @@ Edge has a source and destination, and is therefore unidirectional already. This
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-20-more-clustering) | [Next]({{< baseurl >}}/pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2) »
+« {{% resource_link fc440c95-aa3e-3ffa-8cff-14461dc75eee "Previous" %}} | {{% resource_link d4f15989-167b-6654-ef5c-a2931d758afd "Next" %}} »

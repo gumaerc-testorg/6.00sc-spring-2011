@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -7,9 +8,13 @@ parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: More Optimization and Clustering
 uid: d0438662-17d6-8f32-df53-321e932aba07
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-18-optimization-problems-and-algorithms) | [Next]({{< baseurl >}}/pages/unit-2/quiz-ii) »
+« {{% resource_link 9b324cb4-75a7-af8a-bf5a-0391414fa0b9 "Previous" %}} | {{% resource_link aebaeabd-9821-4fe6-8695-9cd2099b8391 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of building blocks sorted by color.]({{< resource_file b5003c39-8382-68fe-8ab0-338ecc4ca7b9 >}})
+{{< resource b5003c39-8382-68fe-8ab0-338ecc4ca7b9 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +43,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 19: More Optimization and Clustering]({{< baseurl >}}/resources/lecture-19-more-optimization-and-clustering)
+*   {{% resource_link f4ceb51d-408c-76bc-2abf-dd0d2379f8bc "Lecture 19: More Optimization and Clustering" %}}
 
 > ### About this Video
 > 
@@ -46,9 +51,9 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec19)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec19)
-> *   [Lecture slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec19_slides)
+> *   {{% resource_link eeac6fd9-d7d8-d265-f027-8b342d1c5bf2 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 9a8d515c-dee5-8a00-2d31-2a1503e79a52 "Lecture code (PY)" %}}
+> *   {{% resource_link "09475994-7bb7-29ec-f1a7-c28ec7522374" "Lecture slides (PDF)" %}}
 
 Check Yourself
 --------------
@@ -125,4 +130,4 @@ Clustering that merges clusters iteratively.
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-18-optimization-problems-and-algorithms) | [Next]({{< baseurl >}}/pages/unit-2/quiz-ii) »
+« {{% resource_link 9b324cb4-75a7-af8a-bf5a-0391414fa0b9 "Previous" %}} | {{% resource_link aebaeabd-9821-4fe6-8695-9cd2099b8391 "Next" %}} »

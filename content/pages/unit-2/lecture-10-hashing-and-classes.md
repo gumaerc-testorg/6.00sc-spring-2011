@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, lecture questions;
+  problem set information, and further study resources.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -7,9 +9,13 @@ parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Hashing and Classes
 uid: 17410556-8f30-2907-b327-46f2da54236f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2) | [Next]({{< baseurl >}}/pages/unit-2/lecture-11-oop-and-inheritance) »
+« {{% resource_link ddc5db7a-5c64-e3bd-a565-b36f4ed76287 "Previous" %}} | {{% resource_link c7f4e874-e827-c2ec-07cb-6c920e3e1ee3 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of a box of air mail envelopes.]({{< resource_file 103553ac-9c66-5723-0fa2-3c613a1fb04a >}})
+{{< resource 103553ac-9c66-5723-0fa2-3c613a1fb04a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 10: Hashing and Classes]({{< baseurl >}}/resources/lecture-10-hashing-and-classes)
+*   {{% resource_link d0e23d7c-4bd4-4024-7ba7-e3c0301e16c3 "Lecture 10: Hashing and Classes" %}}
 
 > ### About this Video
 > 
@@ -46,8 +52,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec10)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec10)
+> *   {{% resource_link e299b670-216c-731c-44f1-a9038c495852 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 5d63ea15-e55d-d11c-686a-aa83356206b0 "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -131,14 +137,14 @@ Problem Sets
 
 This assignment will deal with a well-known (though not very secure) encryption method called the Caesar cipher. In this problem set you will need to devise your own algorithms and will practice using recursion to solve a non-trivial problem.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps4)
-*   [Pseudocode (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps4-pseudo)
-*   [Code Files (ZIP)]({{< baseurl >}}/resources/ps4) (This ZIP file contains: 1 .py file and 3 .txt files.)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps4_sol) (This ZIP file contains: 2 .py files.)
+*   {{% resource_link ff50119b-d441-887d-641f-cdb569934b6d "Instructions (PDF)" %}}
+*   {{% resource_link dc7676bd-ec5c-909f-89f9-43a4cd4043a9 "Pseudocode (PDF)" %}}
+*   {{% resource_link 52f127bc-633a-8712-af2e-00487b1358ba "Code Files (ZIP)" %}} (This ZIP file contains: 1 .py file and 3 .txt files.)
+*   {{% resource_link ba96a484-3a04-b800-6543-67757fe46d8c "Solutions (ZIP)" %}} (This ZIP file contains: 2 .py files.)
 
 ### Problem Set 5 (Assigned)
 
-Problem set 5 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 12 [Introduction to Simulation and Random Walks]({{< baseurl >}}/pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks).
+Problem set 5 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 12 {{% resource_link a7cc68bd-f5bd-3347-c014-209d6f7c9e17 "Introduction to Simulation and Random Walks" %}}.
 
 Further Study
 -------------
@@ -153,9 +159,9 @@ After watching the lecture, you may want to read some of the following resources
 
 ### Related Lectures
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Hashing I: Chaining, hash functions
     *   Hashing II: Table doubling, Karp-Rabin
     *   Hashing III: Open addressing
 
-« [Previous]({{< baseurl >}}/pages/unit-2) | [Next]({{< baseurl >}}/pages/unit-2/lecture-11-oop-and-inheritance) »
+« {{% resource_link ddc5db7a-5c64-e3bd-a565-b36f4ed76287 "Previous" %}} | {{% resource_link c7f4e874-e827-c2ec-07cb-6c920e3e1ee3 "Next" %}} »

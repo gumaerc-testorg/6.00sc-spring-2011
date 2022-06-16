@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  lecture questions, problem set information, and further study resources.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 1
@@ -7,9 +9,13 @@ parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Debugging
 uid: ebde421e-0808-fd28-3195-0f1a9a69cfb3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-6-recursion) | [Next]({{< baseurl >}}/pages/unit-1/lecture-8-efficiency-and-order-of-growth) »
+« {{% resource_link 99fb7e49-022e-2ef5-90b8-a591159332ed "Previous" %}} | {{% resource_link 51a3082b-b50b-dc70-f44f-e076ffa558d6 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of a moth taped into a lab notebook.]({{< resource_file 3a7a598d-97e4-1758-6fed-83ef1189049b >}})
+{{< resource 3a7a598d-97e4-1758-6fed-83ef1189049b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 7: Debugging]({{< baseurl >}}/resources/lecture-7-debugging)
+*   {{% resource_link 5d693595-84e8-9060-b6a0-a5db161d50f7 "Lecture 7: Debugging" %}}
 
 > ### About this Video
 > 
@@ -46,13 +52,13 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec07)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec07)
-> *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec07_slides)
+> *   {{% resource_link 20b78cd6-0fba-f085-4b53-52b8cf94cae0 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link cecd2a55-c17b-3643-4831-bcae4a7b0a05 "Lecture code (PY)" %}}
+> *   {{% resource_link 96f08eda-3e20-9e94-9f93-6169f2628c3d "Lecture slides (PDF)" %}}
 
 ### Recitation Videos
 
-*   [Recitation 4: Recursion, Pseudo code and Debugging]({{< baseurl >}}/resources/recitation-4-recursion-pseudo-code-and-debugging)
+*   {{% resource_link f67ad90b-ce79-5412-843d-6f9ee1ac6bf7 "Recitation 4: Recursion, Pseudo code and Debugging" %}}
 
 > _About this Video_
 > 
@@ -106,13 +112,13 @@ In this problem set, you'll implement _two_ versions of the 6.00 wordgame! Don't
 
 Let's begin by describing the 6.00 wordgame: This game is a lot like Scrabble or Text Twist, if you've played those. Letters are dealt to players, who then construct one or more words out of their letters. Each **valid** word receives a score, based on the length of the word and the letters in that word.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps3)
-*   [Code files (ZIP)]({{< baseurl >}}/resources/ps3) (This ZIP file contains: 1 .txt file and 4 .py files.)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps3_sol) (This ZIP file contains: 2 .py files.)
+*   {{% resource_link 522fc977-9ba7-dc73-4136-c457918eec53 "Instructions (PDF)" %}}
+*   {{% resource_link 03295206-6efa-d9ea-5528-acaeacb4bf4a "Code files (ZIP)" %}} (This ZIP file contains: 1 .txt file and 4 .py files.)
+*   {{% resource_link dd829e06-16f7-e3d9-34ee-93e562b23da3 "Solutions (ZIP)" %}} (This ZIP file contains: 2 .py files.)
 
 ### Problem Set 4 (Assigned)
 
-Problem set 4 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 10 [Hashing and Classes]({{< baseurl >}}/pages/unit-2/lecture-10-hashing-and-classes).
+Problem set 4 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 10 {{% resource_link 17410556-8f30-2907-b327-46f2da54236f "Hashing and Classes" %}}.
 
 Further Study
 -------------
@@ -126,4 +132,4 @@ After watching the lecture, you may want to read some of the following resources
 *   [8\. Errors and Exceptions](http://docs.python.org/tutorial/errors.html). Python Tutorial.
 *   [Appendix A: Debugging](http://www.greenteapress.com/thinkpython/thinkCSpy/html/app01.html). How to Think Like a Computer Scientist.
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-6-recursion) | [Next]({{< baseurl >}}/pages/unit-1/lecture-8-efficiency-and-order-of-growth) »
+« {{% resource_link 99fb7e49-022e-2ef5-90b8-a591159332ed "Previous" %}} | {{% resource_link 51a3082b-b50b-dc70-f44f-e076ffa558d6 "Next" %}} »

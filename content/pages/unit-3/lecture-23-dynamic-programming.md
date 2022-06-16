@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 3
@@ -7,9 +8,13 @@ parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: Dynamic Programming
 uid: 142ece9e-e56e-5c28-8b69-1c969251db2d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2) | [Next]({{< baseurl >}}/pages/unit-3/lecture-24-avoiding-statistical-fallacies) »
+« {{% resource_link d4f15989-167b-6654-ef5c-a2931d758afd "Previous" %}} | {{% resource_link 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![ses-23.jpg]({{< resource_file 96b9ce1f-0a35-4177-3910-f01e080b492d >}})
+{{< resource 96b9ce1f-0a35-4177-3910-f01e080b492d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +43,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 23: Dynamic Programming]({{< baseurl >}}/resources/lecture-23-dynamic-programming)
+*   {{% resource_link 3666afbb-f44f-3208-aa7d-746cabf1401e "Lecture 23: Dynamic Programming" %}}
 
 > ### About this Video
 > 
@@ -46,8 +51,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec23)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec23)
+> *   {{% resource_link 8d35be04-4e4e-c20a-f733-097af85e1fa5 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 31ad970f-81c0-4e24-56f2-b1a1fab45b81 "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -76,4 +81,4 @@ An optimal solution involves solving the same problem multiple times.
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2) | [Next]({{< baseurl >}}/pages/unit-3/lecture-24-avoiding-statistical-fallacies) »
+« {{% resource_link d4f15989-167b-6654-ef5c-a2931d758afd "Previous" %}} | {{% resource_link 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21 "Next" %}} »

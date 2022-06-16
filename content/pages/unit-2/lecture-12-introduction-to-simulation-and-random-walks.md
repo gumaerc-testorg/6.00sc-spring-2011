@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  lecture questions, and problem set information.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -7,9 +9,13 @@ parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Introduction to Simulation and Random Walks
 uid: a7cc68bd-f5bd-3347-c014-209d6f7c9e17
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-11-oop-and-inheritance) | [Next]({{< baseurl >}}/pages/unit-2/lecture-13-some-basic-probability-and-plotting-data) »
+« {{% resource_link c7f4e874-e827-c2ec-07cb-6c920e3e1ee3 "Previous" %}} | {{% resource_link fbfa6485-7038-d1fe-9497-74c45d99d5e0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Graph showing a movement trail from a random walk simulation.]({{< resource_file 381bd4c8-01da-26c7-934e-ea69c0324fda >}})
+{{< resource 381bd4c8-01da-26c7-934e-ea69c0324fda >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 12: Introduction to Simulation and Random Walks]({{< baseurl >}}/resources/lecture-12-introduction-to-simulation-and-random-walks)
+*   {{% resource_link 96823d86-e5ec-ea67-fe3c-3826c9060125 "Lecture 12: Introduction to Simulation and Random Walks" %}}
 
 > ### About this Video
 > 
@@ -46,8 +52,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec12)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec12)
+> *   {{% resource_link 9ce2e34d-1f23-04d0-432d-e82606cf7dd4 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link d8fb636c-96ac-62b1-b56f-554a8125bdcc "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -95,12 +101,12 @@ Problem Sets
 
 In problem set 5, you will build a program to monitor news feeds over the Internet. Your program will filter the news, alerting the user when it notices a news story that matches that user's interests (for example, the user may be interested in a notification whenever a story related to the Red Sox is posted).
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps5)
-*   [Code Files (ZIP)]({{< baseurl >}}/resources/ps5) (This file contains 1 .txt file, 3 .pyc files, and 6 .py files.)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps5_sol) (This ZIP file contains: 1 .py file.)
+*   {{% resource_link 8750511b-8667-36cb-916f-ad0b5e7d96b0 "Instructions (PDF)" %}}
+*   {{% resource_link 6a8d6217-ad4f-264b-9a31-2d05bb6d430e "Code Files (ZIP)" %}} (This file contains 1 .txt file, 3 .pyc files, and 6 .py files.)
+*   {{% resource_link 052cd678-1574-3abf-7f40-6dfbb50112a0 "Solutions (ZIP)" %}} (This ZIP file contains: 1 .py file.)
 
 ### Problem Set 6 (Assigned)
 
-Problem set 6 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 14 [Sampling and Monte Carlo Simulation]({{< baseurl >}}/pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation).
+Problem set 6 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 14 {{% resource_link eb6bcb74-e4a6-c927-a72e-0bf586910c4c "Sampling and Monte Carlo Simulation" %}}.
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-11-oop-and-inheritance) | [Next]({{< baseurl >}}/pages/unit-2/lecture-13-some-basic-probability-and-plotting-data) »
+« {{% resource_link c7f4e874-e827-c2ec-07cb-6c920e3e1ee3 "Previous" %}} | {{% resource_link fbfa6485-7038-d1fe-9497-74c45d99d5e0 "Next" %}} »

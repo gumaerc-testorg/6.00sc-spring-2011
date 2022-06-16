@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  and lecture questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -7,9 +9,13 @@ parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: OOP and Inheritance
 uid: c7f4e874-e827-c2ec-07cb-6c920e3e1ee3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-10-hashing-and-classes) | [Next]({{< baseurl >}}/pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks) »
+« {{% resource_link 17410556-8f30-2907-b327-46f2da54236f "Previous" %}} | {{% resource_link a7cc68bd-f5bd-3347-c014-209d6f7c9e17 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of ink droplets mixing in water.]({{< resource_file c482305b-06dc-39b2-b789-d387bd1245a0 >}})
+{{< resource c482305b-06dc-39b2-b789-d387bd1245a0 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 11: OOP and Inheritance]({{< baseurl >}}/resources/lecture-11-oop-and-inheritance)
+*   {{% resource_link 022db88f-8aa5-b6cb-4e1f-fbb0027ccdb2 "Lecture 11: OOP and Inheritance" %}}
 
 > ### About this Video
 > 
@@ -46,12 +52,12 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec11)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec11)
+> *   {{% resource_link 87a6a450-109e-6d1b-3ab6-ba8e8e42bdd3 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 0a04963b-d030-2d2d-8a4e-60dd2b9ba40e "Lecture code (PY)" %}}
 
 ### Recitation Videos
 
-*   [Recitation 5: Quiz 1 Answers and Object-Oriented Programming]({{< baseurl >}}/resources/recitation-5-quiz-1-answers-and-object-oriented-programming)
+*   {{% resource_link 715af00a-ba08-a291-c4f0-5ed58ce29861 "Recitation 5: Quiz 1 Answers and Object-Oriented Programming" %}}
 
 > ### About this Video
 > 
@@ -120,4 +126,4 @@ Subclasses can use all the functions of their superclass. They can also use any 
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-10-hashing-and-classes) | [Next]({{< baseurl >}}/pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks) »
+« {{% resource_link 17410556-8f30-2907-b327-46f2da54236f "Previous" %}} | {{% resource_link a7cc68bd-f5bd-3347-c014-209d6f7c9e17 "Next" %}} »

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 3
@@ -7,9 +8,13 @@ parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: Queuing Network Models
 uid: 3e1b5283-96cd-c4ee-29eb-12fe1377a558
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-24-avoiding-statistical-fallacies) | [Next]({{< baseurl >}}/pages/unit-3/lecture-26-what-do-computer-scientists-do) »
+« {{% resource_link 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21 "Previous" %}} | {{% resource_link bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![ses-25.jpg]({{< resource_file 5744cbbd-f5c1-0da5-aaa2-0073f80f416d >}})
+{{< resource 5744cbbd-f5c1-0da5-aaa2-0073f80f416d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -38,7 +43,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 25: Queuing Network Models]({{< baseurl >}}/resources/lecture-25-queuing-network-models)
+*   {{% resource_link cbaf86e7-d0f6-6264-ee55-f61b5b880719 "Lecture 25: Queuing Network Models" %}}
 
 > ### About this Video
 > 
@@ -46,9 +51,9 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec25)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec25)
-> *   [Bus code (PY)]({{< baseurl >}}/resources/q3_bus)
+> *   {{% resource_link 1eff8cb6-d1db-e780-d071-1e6bb6e95f70 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link c0941d07-19bf-598f-aae5-cf02794f03ce "Lecture code (PY)" %}}
+> *   {{% resource_link bd9c780a-5ca2-1d57-6f6b-bc5d2becadfc "Bus code (PY)" %}}
 
 Check Yourself
 --------------
@@ -101,4 +106,4 @@ Shortest remaining processing time: this results in the shortest average wait ti
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3/lecture-24-avoiding-statistical-fallacies) | [Next]({{< baseurl >}}/pages/unit-3/lecture-26-what-do-computer-scientists-do) »
+« {{% resource_link 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21 "Previous" %}} | {{% resource_link bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab "Next" %}} »

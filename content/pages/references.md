@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides a list of references for the course, including
+  textbooks, Python references, further readings, and links on probability and statistics
+  for computer scientists, simulation methods, and breadth-first and depth-first searches.
 learning_resource_types: []
 ocw_type: CourseSection
 title: References
 uid: e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/software) | [Next]({{< baseurl >}}/pages/unit-1) »
+« {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Previous" %}} | {{% resource_link 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6 "Next" %}} »
 
 Textbooks
 ---------
@@ -19,7 +26,7 @@ A second edition of the textbook is now available. However, there may be some di
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
 
-If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase this book, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python (PDF)_](http://tdc-www.harvard.edu/Python.pdf).
 
 Other optional textbooks:
 
@@ -79,4 +86,4 @@ Although two of these are Wikipedia articles, these pages have a lot of informat
 *   Wikipedia article on [Depth-first search](http://en.wikipedia.org/wiki/Depth-first_search)
 *   Wikipedia article on [Breadth-first search](http://en.wikipedia.org/wiki/Breadth-first_search)
 
-« [Previous]({{< baseurl >}}/pages/software) | [Next]({{< baseurl >}}/pages/unit-1) »
+« {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Previous" %}} | {{% resource_link 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6 "Next" %}} »
