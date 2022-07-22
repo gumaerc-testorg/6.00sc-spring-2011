@@ -4,6 +4,7 @@ description: This resource contains information related to curve fitting.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/ca551e6099ec5a6bb30754d199243d02_MIT6_00SCS11_lec17_slides.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Curve Fitting
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to curve fitting.
-

@@ -4,6 +4,7 @@ description: This resource contains problem set related to simulating robots.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8d80b4562cc6d20fd30bbed04c7a9961_MIT6_00SCS11_ps6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Sampling and Monte Carlo Simulation
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to simulating robots.
-

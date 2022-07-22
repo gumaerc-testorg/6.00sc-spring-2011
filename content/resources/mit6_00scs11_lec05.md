@@ -4,6 +4,7 @@ description: This resource contains information related to objects in python.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/40f2efe5948f3d0e8cc7a1d9a17298a1_MIT6_00SCS11_lec05.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Objects in Python
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to objects in python.
-

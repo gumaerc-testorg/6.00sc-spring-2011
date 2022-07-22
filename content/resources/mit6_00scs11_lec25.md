@@ -4,6 +4,7 @@ description: This resource contains information related to queuing network model
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1eff8cb6d1dbe780d0711e6bb6e95f70_MIT6_00SCS11_lec25.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Queuing Network Models
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to queuing network models.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1fc9d4ae1774567ca3e85fc9ed528a98_7BpomdjZ_Os.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

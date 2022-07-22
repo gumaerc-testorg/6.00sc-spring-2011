@@ -4,6 +4,7 @@ description: This is a sample solution file of problem set 01.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9f9daae47732df062dde52757f9f06eb_ps1_sol.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Machine Interpretation of a Program
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a sample solution file of problem set 01.
-

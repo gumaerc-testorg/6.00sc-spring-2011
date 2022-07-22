@@ -4,6 +4,7 @@ description: This folder contains 3 .py files.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9c7269110becbf03d487310ce3ac60d5_ps6.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Sampling and Monte Carlo Simulation
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This folder contains 3 .py files.
-

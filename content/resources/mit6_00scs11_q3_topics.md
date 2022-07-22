@@ -4,6 +4,7 @@ description: This resource contains information about quiz 3 topics.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/d6587cb90ff75c6bb7ab1ba345fa95c3_MIT6_00SCS11_q3_topics.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about quiz 3 topics.
-

@@ -4,6 +4,7 @@ description: This is a sample file of problem set 05.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/052cd67815743abf7f406dfbb50112a0_ps5_sol.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction to Simulation and Random Walks
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a sample file of problem set 05.
-

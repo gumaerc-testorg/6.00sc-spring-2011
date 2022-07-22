@@ -5,6 +5,7 @@ description: This resource contains information related to introduction to simul
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9ce2e34d1f2304d0432de82606cf7dd4_MIT6_00SCS11_lec12.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction to Simulation and Random Walks
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to introduction to simulation and random walks.
-

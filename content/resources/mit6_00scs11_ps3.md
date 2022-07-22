@@ -4,6 +4,7 @@ description: This resource contains problem set related to debugging.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/522fc9779ba7dc734136c457918eec53_MIT6_00SCS11_ps3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Debugging
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to debugging.
-

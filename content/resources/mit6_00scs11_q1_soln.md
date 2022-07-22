@@ -4,6 +4,7 @@ description: 'This resource contains information about quiz 1 solutions. '
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/27dd69776df59f6c8b30cfed5ae059cb_MIT6_00SCS11_q1_soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quiz 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about quiz 1 solutions. 
-

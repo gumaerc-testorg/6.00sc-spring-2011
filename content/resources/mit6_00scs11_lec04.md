@@ -4,6 +4,7 @@ description: This resource contains information about lecture 4.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/d526dee89fccf34eb9bd030a6cf6c712_MIT6_00SCS11_lec04.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Machine Interpretation of a Program
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about lecture 4.
-

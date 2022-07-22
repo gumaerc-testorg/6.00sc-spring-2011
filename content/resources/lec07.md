@@ -4,6 +4,7 @@ description: This resource is a supporting file for debugging.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/cecd2a55c17b36434831bcae4a7b0a05_lec07.py
 file_type: text/python-source
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Debugging
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for debugging.
-

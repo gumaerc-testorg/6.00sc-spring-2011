@@ -4,6 +4,7 @@ description: This is a supporting file for more optimization and clustering.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9a8d515cdee58a002d312a1503e79a52_lec19.py
 file_type: text/python-source
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: More Optimization and Clustering
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for more optimization and clustering.
-

@@ -4,6 +4,7 @@ description: This resource contains information related to more optimization and
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/eeac6fd9d7d8d265f0278b342d1c5bf2_MIT6_00SCS11_lec19.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: More Optimization and Clustering
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to more optimization and clustering.
-

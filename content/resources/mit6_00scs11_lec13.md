@@ -5,6 +5,7 @@ description: This resource contains information related to some basic probabilit
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/869905938f72c7527d7c80390a1fe6b0_MIT6_00SCS11_lec13.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Some Basic Probability and Plotting Data
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to some basic probability and plotting data.
-

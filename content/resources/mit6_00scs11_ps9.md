@@ -4,6 +4,7 @@ description: 'This resource contains instruction for problem set9: schedule opti
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/74fa9ea1abae236f3f0615f8ec039e39_MIT6_00SCS11_ps9.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: More Clustering
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains instruction for problem set9: schedule optimization.
-

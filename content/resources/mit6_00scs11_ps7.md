@@ -5,6 +5,7 @@ description: This resource contains problem set related to simulating the spread
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/3148f85435eac0d2537af61b908905f4_MIT6_00SCS11_ps7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Using Randomness to Solve Non-random Problems
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problem set related to simulating the spread of disease and virus population.
-

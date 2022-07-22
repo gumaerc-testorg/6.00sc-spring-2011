@@ -4,6 +4,7 @@ description: This folder contains 3 .txt files.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/95bc8ed64ad26e01b14fc5fc5d85cdfa_lec17_data.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Curve Fitting
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This folder contains 3 .txt files.
-

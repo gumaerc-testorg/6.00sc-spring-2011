@@ -4,6 +4,7 @@ description: This is a sample file of problem set 06.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/53a34fc946b797fe142b9b8b9eba71cd_ps6_sol.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Sampling and Monte Carlo Simulation
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a sample file of problem set 06.
-

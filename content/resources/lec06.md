@@ -4,6 +4,7 @@ description: This resource is a supporting file for recursion.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/47eb608478d8fb1ed999357c3b2fec8c_lec06.py
 file_type: text/python-source
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recursion
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for recursion.
-
