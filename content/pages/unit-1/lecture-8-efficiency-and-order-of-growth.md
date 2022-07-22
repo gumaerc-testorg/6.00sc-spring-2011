@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Efficiency and Order of Growth
 uid: 51a3082b-b50b-dc70-f44f-e076ffa558d6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-7-debugging) | [Next]({{< baseurl >}}/pages/unit-1/lecture-9-memory-and-search-methods) »
+« {{% resource_link ebde421e-0808-fd28-3195-0f1a9a69cfb3 "Previous" %}} | {{% resource_link 518bf74e-c414-e8ec-f4d5-55616396f6d0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Graph showing various logarithmic curves.]({{< resource_file 909d2baa-718a-f8cd-3fd3-18c827218766 >}})
+{{< resource 909d2baa-718a-f8cd-3fd3-18c827218766 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -33,7 +41,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 8: Efficiency and Order of Growth]({{< baseurl >}}/resources/lecture-8-efficiency-and-order-of-growth)
+*   {{% resource_link 305481f5-8dd2-63ef-0252-e64265918f0a "Lecture 8: Efficiency and Order of Growth" %}}
 
 > ### About this Video
 > 
@@ -41,13 +49,13 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec08)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec08)
-> *   [showGrowth code (PY)]({{< baseurl >}}/resources/showgrowth)
+> *   {{% resource_link fac930df-b11c-296d-20ed-c1a96f91c021 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 79250a09-8254-badf-77f1-bdc40e705736 "Lecture code (PY)" %}}
+> *   {{% resource_link f141695b-b5aa-d941-c1a9-cbd3b2aaa296 "showGrowth code (PY)" %}}
 
 ### Recitation Videos
 
-*   [Optional Recitation: Algorithm Complexity and Class Review]({{< baseurl >}}/resources/optional-recitation-algorithm-complexity-and-class-review)
+*   {{% resource_link 5b239301-45fe-2481-4898-2a0f46893c99 "Optional Recitation: Algorithm Complexity and Class Review" %}}
 
 > ### About this Video
 > 
@@ -55,7 +63,7 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Recitation handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_rec04) (Courtesy of Sarina Canelake. Used with permission.)
+> *   {{% resource_link 40c9c46f-cf6c-d68e-91a0-11ea04feb1d9 "Recitation handout (PDF)" %}} (Courtesy of Sarina Canelake. Used with permission.)
 
 Check Yourself
 --------------
@@ -84,4 +92,4 @@ Big O notation.
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-7-debugging) | [Next]({{< baseurl >}}/pages/unit-1/lecture-9-memory-and-search-methods) »
+« {{% resource_link ebde421e-0808-fd28-3195-0f1a9a69cfb3 "Previous" %}} | {{% resource_link 518bf74e-c414-e8ec-f4d5-55616396f6d0 "Next" %}} »

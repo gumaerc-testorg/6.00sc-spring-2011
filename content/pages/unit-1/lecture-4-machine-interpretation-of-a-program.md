@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  lecture questions, and problem set information.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 1
+parent_type: CourseSection
 parent_uid: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
 title: Machine Interpretation of a Program
 uid: f13e5af9-52a2-f007-e596-f80bc01059fe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-3-problem-solving) | [Next]({{< baseurl >}}/pages/unit-1/lecture-5-objects-in-python) »
+« {{% resource_link 3c3069d4-e0ed-fe69-ce4f-6de217d649a5 "Previous" %}} | {{% resource_link 138c881e-91b6-6b62-fdc8-2ea403e07fc5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of scissors cutting a credit card.]({{< resource_file 4bc208be-60c6-431e-114d-600e230b547d >}})
+{{< resource 4bc208be-60c6-431e-114d-600e230b547d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 4: Machine Interpretation of a Program]({{< baseurl >}}/resources/lecture-4-machine-interpretation-of-a-program)
+*   {{% resource_link da4ac4d9-220c-7447-dc5f-edf0414e7b79 "Lecture 4: Machine Interpretation of a Program" %}}
 
 > ### About this Video
 > 
@@ -43,12 +52,12 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec04)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec04)
+> *   {{% resource_link d526dee8-9fcc-f34e-b9bd-030a6cf6c712 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link e3f2450f-e7bf-cad1-f130-6f18ac95c9bd "Lecture code (PY)" %}}
 
 ### Recitation Videos
 
-*   [Recitation 2: Loops, Tuples, Strings and Functions]({{< baseurl >}}/resources/recitation-2-loops-tuples-strings-and-functions)
+*   {{% resource_link b6a1ce9d-546f-e7e8-4ce0-f04296a91d77 "Recitation 2: Loops, Tuples, Strings and Functions" %}}
 
 > ### About this Video
 > 
@@ -100,11 +109,11 @@ Problem Sets
 
 This problem set will introduce you to using control flow in Python and formulating a computational solution to a problem. You will design and write three simple Python programs, test them, and hand them in.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps1)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps1_sol) (This ZIP file contains: 3 .py files.)
+*   {{% resource_link 5a9a83ed-8492-12ed-5b37-2569d1f1493c "Instructions (PDF)" %}}
+*   {{% resource_link 9f9daae4-7732-df06-2dde-52757f9f06eb "Solutions (ZIP)" %}} (This ZIP file contains: 3 .py files.)
 
 ### Problem Set 2 (Assigned)
 
-Problem set 2 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 6 [Recursion]({{< baseurl >}}/pages/unit-1/lecture-6-recursion).
+Problem set 2 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 6 {{% resource_link 99fb7e49-022e-2ef5-90b8-a591159332ed "Recursion" %}}.
 
-« [Previous]({{< baseurl >}}/pages/unit-1/lecture-3-problem-solving) | [Next]({{< baseurl >}}/pages/unit-1/lecture-5-objects-in-python) »
+« {{% resource_link 3c3069d4-e0ed-fe69-ce4f-6de217d649a5 "Previous" %}} | {{% resource_link 138c881e-91b6-6b62-fdc8-2ea403e07fc5 "Next" %}} »

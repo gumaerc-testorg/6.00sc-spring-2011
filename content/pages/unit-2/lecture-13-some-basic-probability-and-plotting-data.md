@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, and lecture questions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Some Basic Probability and Plotting Data
 uid: fbfa6485-7038-d1fe-9497-74c45d99d5e0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks) | [Next]({{< baseurl >}}/pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation) »
+« {{% resource_link a7cc68bd-f5bd-3347-c014-209d6f7c9e17 "Previous" %}} | {{% resource_link eb6bcb74-e4a6-c927-a72e-0bf586910c4c "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +22,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of assorted dice.]({{< resource_file 3112a166-2d7c-0752-30b8-14159207d282 >}})
+{{< resource 3112a166-2d7c-0752-30b8-14159207d282 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +43,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 13: Some Basic Probability and Plotting Data]({{< baseurl >}}/resources/lecture-13-some-basic-probability-and-plotting-data)
+*   {{% resource_link 1c93a6b8-7705-db3e-8919-fa391057dff6 "Lecture 13: Some Basic Probability and Plotting Data" %}}
 
 > ### About this Video
 > 
@@ -43,8 +51,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec13)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec13)
+> *   {{% resource_link 86990593-8f72-c752-7d7c-80390a1fe6b0 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link f0a94a6d-ac1a-d9ae-326b-69a20d7bf420 "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -73,4 +81,4 @@ Two events are independent if the outcome of one has no influence on the outcome
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks) | [Next]({{< baseurl >}}/pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation) »
+« {{% resource_link a7cc68bd-f5bd-3347-c014-209d6f7c9e17 "Previous" %}} | {{% resource_link eb6bcb74-e4a6-c927-a72e-0bf586910c4c "Next" %}} »

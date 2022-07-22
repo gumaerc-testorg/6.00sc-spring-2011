@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, lecture questions;
+  problem set information, and further study resources.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Using Randomness to Solve Non-random Problems
 uid: 76234e32-1a3a-3b21-e1e5-48190e089977
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-15-statistical-thinking) | [Next]({{< baseurl >}}/pages/unit-2/lecture-17-curve-fitting) »
+« {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Previous" %}} | {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of three doors in a row.]({{< resource_file aea8b182-2ecd-ecc1-762d-9e64dbea8617 >}})
+{{< resource aea8b182-2ecd-ecc1-762d-9e64dbea8617 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 16: Using Randomness to Solve Non-random Problems]({{< baseurl >}}/resources/lecture-16-using-randomness-to-solve-non-random-problems)
+*   {{% resource_link 103f78b9-aef5-7653-bedc-ef56d826afff "Lecture 16: Using Randomness to Solve Non-random Problems" %}}
 
 > ### About this Video
 > 
@@ -43,8 +52,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec16)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec16)
+> *   {{% resource_link 320ee40e-186e-1a16-08ef-f7b89083fb40 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 6c44b8b5-73d1-ca02-db75-2a950b1f0523 "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -92,13 +101,13 @@ Problem Sets
 
 In this problem set, using Python and pylab you will design and implement a stochastic simulation of patient and virus population dynamics, and reach conclusions about treatment regimens based on the simulation results.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps7)
-*   [Code File (PY)]({{< baseurl >}}/resources/ps7)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps7_sol) (This ZIP file contains: 2 .pdf files and 1 .py file.)
+*   {{% resource_link 3148f854-35ea-c0d2-537a-f61b908905f4 "Instructions (PDF)" %}}
+*   {{% resource_link f78e460f-7df0-0c1b-cdc8-a00bcb6f2536 "Code File (PY)" %}}
+*   {{% resource_link 405bf340-e738-def8-13f8-12a23ed6b515 "Solutions (ZIP)" %}} (This ZIP file contains: 2 .pdf files and 1 .py file.)
 
 ### Problem Set 8 (Assigned)
 
-Problem set 8 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 18 [Optimization Problems and Algorithms]({{< baseurl >}}/pages/unit-2/lecture-18-optimization-problems-and-algorithms).
+Problem set 8 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 18 {{% resource_link 9b324cb4-75a7-af8a-bf5a-0391414fa0b9 "Optimization Problems and Algorithms" %}}.
 
 Further Study
 -------------
@@ -108,4 +117,4 @@ These optional resources are provided for students that wish to explore this top
 *   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
 *   [Matplotlib](http://matplotlib.sourceforge.net/)
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-15-statistical-thinking) | [Next]({{< baseurl >}}/pages/unit-2/lecture-17-curve-fitting) »
+« {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Previous" %}} | {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Next" %}} »

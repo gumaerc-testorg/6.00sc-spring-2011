@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  and lecture questions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Statistical Thinking
 uid: ce0b5b46-79ba-a326-f9fd-0a1c40f8adae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation) | [Next]({{< baseurl >}}/pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems) »
+« {{% resource_link eb6bcb74-e4a6-c927-a72e-0bf586910c4c "Previous" %}} | {{% resource_link 76234e32-1a3a-3b21-e1e5-48190e089977 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of a Roosevelt dime from 1948.]({{< resource_file 23950e2e-ea8f-f130-b10e-4e193f653903 >}})
+{{< resource 23950e2e-ea8f-f130-b10e-4e193f653903 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 15: Statistical Thinking]({{< baseurl >}}/resources/lecture-15-statistical-thinking)
+*   {{% resource_link a253597f-adc8-64f2-cfa9-41ac8c860404 "Lecture 15: Statistical Thinking" %}}
 
 > ### About this Video
 > 
@@ -43,12 +52,12 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec15)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec15)
+> *   {{% resource_link 26b03957-d867-2195-8dbe-57766d380ef4 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 05fb2659-0ec9-b195-06a0-f290a669b8ab "Lecture code (PY)" %}}
 
 ### Recitation Videos
 
-*   [Recitation 6: Probability and Statistics]({{< baseurl >}}/resources/recitation-6-probability-and-statistics)
+*   {{% resource_link b0100470-42a3-36d1-6880-1a9c3ec42992 "Recitation 6: Probability and Statistics" %}}
 
 > ### About this Video
 > 
@@ -93,4 +102,4 @@ The standard deviation divided by the mean. If it's less than 1, the distributio
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation) | [Next]({{< baseurl >}}/pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems) »
+« {{% resource_link eb6bcb74-e4a6-c927-a72e-0bf586910c4c "Previous" %}} | {{% resource_link 76234e32-1a3a-3b21-e1e5-48190e089977 "Next" %}} »

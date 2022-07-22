@@ -1,10 +1,19 @@
 ---
 content_type: page
+description: This syllabus section provides information on strategic goals for the
+  course, major topics, prerequisites and preparation, textbook, technical requirements,
+  and acknowledgements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e96b35e9-4a97-9cbd-2101-868dae215a07
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/software) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Next" %}} »
 
 About This Course
 -----------------
@@ -48,14 +57,14 @@ A second edition of the textbook is now available. However, there may be some di
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
 
-If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
 
-Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the [References]({{< baseurl >}}/pages/references) section.
+Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the {{% resource_link e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5 "References" %}} section.
 
 Technical Requirements
 ----------------------
 
-Since one of the goals of this course is to become familiar with programming, you will need to install and use the Python programming language and the interpreter IDLE. Please see the [Software]({{< baseurl >}}/pages/software) section for information and instructions on downloading the required software.
+Since one of the goals of this course is to become familiar with programming, you will need to install and use the Python programming language and the interpreter IDLE. Please see the {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Software" %}} section for information and instructions on downloading the required software.
 
 Most lectures involve programming demonstrations, and the code involved will generally be posted twice: once as a handout in PDF format, and again as a code file in .PY (Python) format. Additionally, many problem sets have accompanying code required for completing the assignment, and these are posted as .PY (Python) files. If you do not have the software installed, you will not be able to properly open and use these files.
 
@@ -64,4 +73,4 @@ Acknowledgments
 
 We would like to thank course TAs Mitchell Peabody, Gartheeban Ganeshapillai, and Sarina Canelake for their participation in filming 6.00 recitations for OCW Scholar, and Niki Castle and Elaina Cherry for their work and dedication adapting the 6.00 materials for Scholar students. We would also like to thank Eric Grimson for his role in the development of 6.00 teaching material over the years, and for allowing us to record a guest lecture.
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/software) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Next" %}} »

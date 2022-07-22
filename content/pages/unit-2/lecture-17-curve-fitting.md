@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  and lecture questions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Curve Fitting
 uid: e632ebd5-0e8f-47bb-2666-d9152f62e9e4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems) | [Next]({{< baseurl >}}/pages/unit-2/lecture-18-optimization-problems-and-algorithms) »
+« {{% resource_link 76234e32-1a3a-3b21-e1e5-48190e089977 "Previous" %}} | {{% resource_link 9b324cb4-75a7-af8a-bf5a-0391414fa0b9 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Diagram of spring under tension.]({{< resource_file 7de06a38-4626-eee8-6497-de9a3295e785 >}})
+{{< resource 7de06a38-4626-eee8-6497-de9a3295e785 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -33,7 +42,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 17: Curve Fitting]({{< baseurl >}}/resources/lecture-17-curve-fitting)
+*   {{% resource_link e2f0ac47-4808-f242-2184-3b4f4448f85e "Lecture 17: Curve Fitting" %}}
 
 > ### About this Video
 > 
@@ -41,14 +50,14 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec17)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec17)
-> *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec17_slides)
-> *   [Lecture data files (ZIP)]({{< baseurl >}}/resources/lec17_data) (This ZIP file contains: 3 .txt files.)
+> *   {{% resource_link f5a88f8c-2b26-d67c-7f29-101fb02243b6 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 6b9734f2-34ad-117b-4733-fc25f357ec22 "Lecture code (PY)" %}}
+> *   {{% resource_link ca551e60-99ec-5a6b-b307-54d199243d02 "Lecture slides (PDF)" %}}
+> *   {{% resource_link 95bc8ed6-4ad2-6e01-b14f-c5fc5d85cdfa "Lecture data files (ZIP)" %}} (This ZIP file contains: 3 .txt files.)
 
 ### Recitation Videos
 
-*   [Recitation 7: Distributions, Monte Carlo, and Regressions]({{< baseurl >}}/resources/recitation-7-distributions-monte-carlo-and-regressions)
+*   {{% resource_link 867fde86-2585-6315-b2c6-53a49cbe1605 "Recitation 7: Distributions, Monte Carlo, and Regressions" %}}
 
 > ### About this Video
 > 
@@ -105,4 +114,4 @@ Coefficient of determination, R^2, is equal to 1 – (estimated error)/(variance
 
 {{< /div-with-class >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems) | [Next]({{< baseurl >}}/pages/unit-2/lecture-18-optimization-problems-and-algorithms) »
+« {{% resource_link 76234e32-1a3a-3b21-e1e5-48190e089977 "Previous" %}} | {{% resource_link 9b324cb4-75a7-af8a-bf5a-0391414fa0b9 "Next" %}} »

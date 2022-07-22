@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, recitation video,
+  lecture questions, and problem set information.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 3
+parent_type: CourseSection
 parent_uid: 82c15099-81b2-70b9-823b-c741f08c9b32
 title: More Clustering
 uid: fc440c95-aa3e-3ffa-8cff-14461dc75eee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3) | [Next]({{< baseurl >}}/pages/unit-3/lecture-21-using-graphs-to-model-problems-part-1) »
+« {{% resource_link 82c15099-81b2-70b9-823b-c741f08c9b32 "Previous" %}} | {{% resource_link e1b5ff21-127d-fb30-33e3-98fce88c42e6 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![ses-20.jpg]({{< resource_file 83badeff-3504-8cca-4372-f5bd8d5d19b8 >}})
+{{< resource 83badeff-3504-8cca-4372-f5bd8d5d19b8 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 20: More Clustering]({{< baseurl >}}/resources/lecture-20-more-clustering)
+*   {{% resource_link 8e437d60-4662-11a1-b9ed-6bd1be497165 "Lecture 20: More Clustering" %}}
 
 > ### About this Video
 > 
@@ -43,14 +52,14 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec20)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec20)
-> *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec20_slides)
-> *   [Lecture data files (ZIP)]({{< baseurl >}}/resources/lec20_data) (This ZIP file contains: 3 .txt files.)
+> *   {{% resource_link 60df582d-4c81-2a78-7695-952b65aced83 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 5c2ca116-1808-cbe2-ec41-f8000773ad78 "Lecture code (PY)" %}}
+> *   {{% resource_link e09f895c-c2c0-3cc0-7388-e4440df7b2f7 "Lecture slides (PDF)" %}}
+> *   {{% resource_link 825878e7-db0c-30e1-d516-d3281c251d4c "Lecture data files (ZIP)" %}} (This ZIP file contains: 3 .txt files.)
 
 ### Recitation Videos
 
-*   [Recitation 8: Hierarchical and k-means Clustering]({{< baseurl >}}/resources/recitation-8-hierarchical-and-k-means-clustering)
+*   {{% resource_link bf184146-83d1-aed8-d65a-2d4b8b584cc0 "Recitation 8: Hierarchical and k-means Clustering" %}}
 
 > ### About this Video
 > 
@@ -102,13 +111,13 @@ Problem Sets
 
 At an institute of higher education that shall remain nameless, it used to be the case that a human adviser would help each student formulate a list of subjects that would meet the student's objectives. However, because of financial troubles, the Institute has decided to replace human advisers with software. Given the amount of work a student wants to do, the program returns a list of subjects that maximizes the amount of value. The goal of this problem set is to implement optimization algorithms.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps9)
-*   [Code Files (ZIP)]({{< baseurl >}}/resources/ps9) (This ZIP file contains: 2 .py files and 2 .txt files.)
+*   {{% resource_link 74fa9ea1-abae-236f-3f06-15f8ec039e39 "Instructions (PDF)" %}}
+*   {{% resource_link 6dcb99ce-9c44-a3b5-64dc-9d6177f4a831 "Code Files (ZIP)" %}} (This ZIP file contains: 2 .py files and 2 .txt files.)
 
 _Note: Solutions are not available for this assignment._
 
 ### Problem Set 10 (Assigned)
 
-Problem set 10 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 22 [Using Graphs to Model Problems, Part 2]({{< baseurl >}}/pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2).
+Problem set 10 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 22 {{% resource_link d4f15989-167b-6654-ef5c-a2931d758afd "Using Graphs to Model Problems, Part 2" %}}.
 
-« [Previous]({{< baseurl >}}/pages/unit-3) | [Next]({{< baseurl >}}/pages/unit-3/lecture-21-using-graphs-to-model-problems-part-1) »
+« {{% resource_link 82c15099-81b2-70b9-823b-c741f08c9b32 "Previous" %}} | {{% resource_link e1b5ff21-127d-fb30-33e3-98fce88c42e6 "Next" %}} »

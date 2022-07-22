@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, lecture questions,
+  and problem set information.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Optimization Problems and Algorithms
 uid: 9b324cb4-75a7-af8a-bf5a-0391414fa0b9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-17-curve-fitting) | [Next]({{< baseurl >}}/pages/unit-2/lecture-19-more-optimization-and-clustering) »
+« {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Previous" %}} | {{% resource_link d0438662-17d6-8f32-df53-321e932aba07 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of a backpack.]({{< resource_file 0cfdaa1b-44fa-abde-b83f-be7584387a94 >}})
+{{< resource 0cfdaa1b-44fa-abde-b83f-be7584387a94 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -35,7 +44,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 18: Optimization Problems and Algorithms]({{< baseurl >}}/resources/lecture-18-optimization-problems-and-algorithms)
+*   {{% resource_link eceffca9-442b-d3a3-7051-0ebb253fea4e "Lecture 18: Optimization Problems and Algorithms" %}}
 
 > ### About this Video
 > 
@@ -43,10 +52,10 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec18)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec18)
-> *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec18_slides)
-> *   [Launcher data file (TXT)](./resolveuid/2b18b8ac90c5566531bd05e327eaebea)
+> *   {{% resource_link dc8e5dc3-820e-bec3-10f3-bdc8eb814b87 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link 5322014f-ac2e-79bd-6aa0-8af9a654f4cc "Lecture code (PY)" %}}
+> *   {{% resource_link a905cad9-eaf3-fb19-35ad-4b4bf807cbac "Lecture slides (PDF)" %}}
+> *   {{% resource_link "2b18b8ac-90c5-5665-31bd-05e327eaebea" "Launcher data file (TXT)" %}}
 
 Check Yourself
 --------------
@@ -82,12 +91,12 @@ Problem Sets
 
 In this problem set, using Python and pylab you will design and implement a stochastic simulation of patient and virus population dynamics, and reach conclusions about treatment regimens based on the simulation results.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps8)
-*   [Code Files (ZIP)]({{< baseurl >}}/resources/ps8) (This ZIP file contains: 1 .py file and 1 .pyc file.)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps8_sol) (This ZIP file contains: 1 .py file and 1 .pdf file.)
+*   {{% resource_link 08d77c37-a70d-288d-2325-ef78cc7079aa "Instructions (PDF)" %}}
+*   {{% resource_link 297153e1-521b-2606-3846-8d15e00d58c4 "Code Files (ZIP)" %}} (This ZIP file contains: 1 .py file and 1 .pyc file.)
+*   {{% resource_link 0388db24-e424-1ed8-e94e-fefc5cfcf40f "Solutions (ZIP)" %}} (This ZIP file contains: 1 .py file and 1 .pdf file.)
 
 ### Problem Set 9 (Assigned)
 
-Problem set 9 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 20 [More Clustering]({{< baseurl >}}/pages/unit-3/lecture-20-more-clustering).
+Problem set 9 is assigned in this session. The instructions and solutions can be found on the session page where it is due, Lecture 20 {{% resource_link fc440c95-aa3e-3ffa-8cff-14461dc75eee "More Clustering" %}}.
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-17-curve-fitting) | [Next]({{< baseurl >}}/pages/unit-2/lecture-19-more-optimization-and-clustering) »
+« {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Previous" %}} | {{% resource_link d0438662-17d6-8f32-df53-321e932aba07 "Next" %}} »

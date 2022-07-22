@@ -1,12 +1,21 @@
 ---
 content_type: page
+description: This section contains a lecture video and resources, lecture questions;
+  problem set information, and further study resources.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Unit 2
+parent_type: CourseSection
 parent_uid: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
 title: Sampling and Monte Carlo Simulation
 uid: eb6bcb74-e4a6-c927-a72e-0bf586910c4c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-13-some-basic-probability-and-plotting-data) | [Next]({{< baseurl >}}/pages/unit-2/lecture-15-statistical-thinking) »
+« {{% resource_link fbfa6485-7038-d1fe-9497-74c45d99d5e0 "Previous" %}} | {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +23,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photograph of a floppy disk.]({{< resource_file cfb649b1-4143-7dcc-ac12-b3fdb249d1e5 >}})
+{{< resource cfb649b1-4143-7dcc-ac12-b3fdb249d1e5 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -33,7 +42,7 @@ Session Activities
 
 ### Lecture Videos
 
-*   [Lecture 14: Sampling and Monte Carlo Simulation]({{< baseurl >}}/resources/lecture-14-sampling-and-monte-carlo-simulation)
+*   {{% resource_link 951931ca-4e2f-04a1-e3bb-e7eecc892f59 "Lecture 14: Sampling and Monte Carlo Simulation" %}}
 
 > ### About this Video
 > 
@@ -41,8 +50,8 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec14)
-> *   [Lecture code (PY)]({{< baseurl >}}/resources/lec14)
+> *   {{% resource_link a6f0b19f-2992-8c48-9023-82bab7c02220 "Lecture code handout (PDF)" %}}
+> *   {{% resource_link feb450c2-d0f2-95d1-94da-46883f9b28b5 "Lecture code (PY)" %}}
 
 Check Yourself
 --------------
@@ -114,13 +123,13 @@ Problem Sets
 
 In this problem set you will practice designing a simulation and implementing a program that uses classes.
 
-*   [Instructions (PDF)]({{< baseurl >}}/resources/mit6_00scs11_ps6)
-*   [Code Files (ZIP)]({{< baseurl >}}/resources/ps6) (This ZIP file contains: 3 .py files.)
-*   [Solutions (ZIP)]({{< baseurl >}}/resources/ps6_sol) (This ZIP file contains: 1 .py file.)
+*   {{% resource_link 8d80b456-2cc6-d20f-d30b-bed04c7a9961 "Instructions (PDF)" %}}
+*   {{% resource_link 9c726911-0bec-bf03-d487-310ce3ac60d5 "Code Files (ZIP)" %}} (This ZIP file contains: 3 .py files.)
+*   {{% resource_link 53a34fc9-46b7-97fe-142b-9b8b9eba71cd "Solutions (ZIP)" %}} (This ZIP file contains: 1 .py file.)
 
 ### Problem Set 7 (Assigned)
 
-Problem set 7 is assigned in this session. The instructions and solutions can be found on the session page when it is due, Lecture 16 [Using Randomness to Solve Non-random Problems]({{< baseurl >}}/pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems).
+Problem set 7 is assigned in this session. The instructions and solutions can be found on the session page when it is due, Lecture 16 {{% resource_link 76234e32-1a3a-3b21-e1e5-48190e089977 "Using Randomness to Solve Non-random Problems" %}}.
 
 Further Study
 -------------
@@ -131,4 +140,4 @@ These optional resources are provided for students that wish to explore this top
 
 *   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
 
-« [Previous]({{< baseurl >}}/pages/unit-2/lecture-13-some-basic-probability-and-plotting-data) | [Next]({{< baseurl >}}/pages/unit-2/lecture-15-statistical-thinking) »
+« {{% resource_link fbfa6485-7038-d1fe-9497-74c45d99d5e0 "Previous" %}} | {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Next" %}} »
