@@ -1,0 +1,174 @@
+leftnav:
+- identifier: e96b35e9-4a97-9cbd-2101-868dae215a07
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 10678512-6d28-82a8-01cc-c0fc608f8ef3
+  name: Software
+  url: /pages/software
+  weight: 20
+- identifier: e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5
+  name: References
+  url: /pages/references
+  weight: 30
+- identifier: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  name: Unit 1
+  url: /pages/unit-1/
+  weight: 40
+- identifier: 5b8b75cf-d4b0-ebf7-e606-27901932f396
+  name: Introduction to 6.00
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-1-introduction-to-6-00
+  weight: 50
+- identifier: 5a8ad51b-351a-4b3f-0c09-861452ea827d
+  name: Core Elements of a Program
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-2-core-elements-of-a-program
+  weight: 60
+- identifier: 3c3069d4-e0ed-fe69-ce4f-6de217d649a5
+  name: Problem Solving
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-3-problem-solving
+  weight: 70
+- identifier: f13e5af9-52a2-f007-e596-f80bc01059fe
+  name: Machine Interpretation of a Program
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-4-machine-interpretation-of-a-program
+  weight: 80
+- identifier: 138c881e-91b6-6b62-fdc8-2ea403e07fc5
+  name: Objects in Python
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-5-objects-in-python
+  weight: 90
+- identifier: 99fb7e49-022e-2ef5-90b8-a591159332ed
+  name: Recursion
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-6-recursion
+  weight: 100
+- identifier: ebde421e-0808-fd28-3195-0f1a9a69cfb3
+  name: Debugging
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-7-debugging
+  weight: 110
+- identifier: 51a3082b-b50b-dc70-f44f-e076ffa558d6
+  name: Efficiency and Order of Growth
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-8-efficiency-and-order-of-growth
+  weight: 120
+- identifier: 518bf74e-c414-e8ec-f4d5-55616396f6d0
+  name: Memory and Search Methods
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/lecture-9-memory-and-search-methods
+  weight: 130
+- identifier: f47a2aad-b696-870f-d73f-2911223c7ebf
+  name: Quiz 1
+  parent: 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6
+  url: /pages/unit-1/quiz-i
+  weight: 140
+- identifier: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  name: Unit 2
+  url: /pages/unit-2/
+  weight: 150
+- identifier: 17410556-8f30-2907-b327-46f2da54236f
+  name: Hashing and Classes
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-10-hashing-and-classes
+  weight: 160
+- identifier: c7f4e874-e827-c2ec-07cb-6c920e3e1ee3
+  name: OOP and Inheritance
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-11-oop-and-inheritance
+  weight: 170
+- identifier: a7cc68bd-f5bd-3347-c014-209d6f7c9e17
+  name: Introduction to Simulation and Random Walks
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-12-introduction-to-simulation-and-random-walks
+  weight: 180
+- identifier: fbfa6485-7038-d1fe-9497-74c45d99d5e0
+  name: Some Basic Probability and Plotting Data
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-13-some-basic-probability-and-plotting-data
+  weight: 190
+- identifier: eb6bcb74-e4a6-c927-a72e-0bf586910c4c
+  name: Sampling and Monte Carlo Simulation
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-14-sampling-and-monte-carlo-simulation
+  weight: 200
+- identifier: ce0b5b46-79ba-a326-f9fd-0a1c40f8adae
+  name: Statistical Thinking
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-15-statistical-thinking
+  weight: 210
+- identifier: 76234e32-1a3a-3b21-e1e5-48190e089977
+  name: Using Randomness to Solve Non-random Problems
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-16-using-randomness-to-solve-non-random-problems
+  weight: 220
+- identifier: e632ebd5-0e8f-47bb-2666-d9152f62e9e4
+  name: Curve Fitting
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-17-curve-fitting
+  weight: 230
+- identifier: 9b324cb4-75a7-af8a-bf5a-0391414fa0b9
+  name: Optimization Problems and Algorithms
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-18-optimization-problems-and-algorithms
+  weight: 240
+- identifier: d0438662-17d6-8f32-df53-321e932aba07
+  name: More Optimization and Clustering
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/lecture-19-more-optimization-and-clustering
+  weight: 250
+- identifier: aebaeabd-9821-4fe6-8695-9cd2099b8391
+  name: Quiz 2
+  parent: ddc5db7a-5c64-e3bd-a565-b36f4ed76287
+  url: /pages/unit-2/quiz-ii
+  weight: 260
+- identifier: 82c15099-81b2-70b9-823b-c741f08c9b32
+  name: Unit 3
+  url: /pages/unit-3/
+  weight: 270
+- identifier: fc440c95-aa3e-3ffa-8cff-14461dc75eee
+  name: More Clustering
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-20-more-clustering
+  weight: 280
+- identifier: e1b5ff21-127d-fb30-33e3-98fce88c42e6
+  name: Using Graphs to Model Problems, Part 1
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-21-using-graphs-to-model-problems-part-1
+  weight: 290
+- identifier: d4f15989-167b-6654-ef5c-a2931d758afd
+  name: Using Graphs to Model Problems, Part 2
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-22-using-graphs-to-model-problems-part-2
+  weight: 300
+- identifier: 142ece9e-e56e-5c28-8b69-1c969251db2d
+  name: Dynamic Programming
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-23-dynamic-programming
+  weight: 310
+- identifier: 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21
+  name: Avoiding Statistical Fallacies
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-24-avoiding-statistical-fallacies
+  weight: 320
+- identifier: 3e1b5283-96cd-c4ee-29eb-12fe1377a558
+  name: Queuing Network Models
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-25-queuing-network-models
+  weight: 330
+- identifier: bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab
+  name: What Do Computer Scientists Do?
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/lecture-26-what-do-computer-scientists-do
+  weight: 340
+- identifier: f0df76f9-717f-330e-1b80-5da69fe42319
+  name: Final Exam
+  parent: 82c15099-81b2-70b9-823b-c741f08c9b32
+  url: /pages/unit-3/final-exam
+  weight: 350
+- identifier: aa132f80-df80-dcc2-e350-0e9e999a3c25
+  name: Resource Index
+  url: /pages/resource-index
+  weight: 360
