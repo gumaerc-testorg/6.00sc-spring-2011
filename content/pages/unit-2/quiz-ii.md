@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains information about Quiz 2, review material, a TA
   review session video, and Quiz 2 with solutions.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -14,7 +15,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link d0438662-17d6-8f32-df53-321e932aba07 "Previous" %}} | {{% resource_link 82c15099-81b2-70b9-823b-c741f08c9b32 "Next" %}} »
 
 Quiz 2 covers all material (lectures, recitations, and problem sets) from the beginning of the course through {{% resource_link d0438662-17d6-8f32-df53-321e932aba07 "More Optimization and Clustering" %}}.

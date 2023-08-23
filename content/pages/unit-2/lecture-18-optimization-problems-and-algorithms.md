@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains a lecture video and resources, lecture questions,
   and problem set information.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 2
@@ -14,7 +15,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Previous" %}} | {{% resource_link d0438662-17d6-8f32-df53-321e932aba07 "Next" %}} »
 
 Session Overview

@@ -3,6 +3,7 @@ content_type: page
 description: This syllabus section provides information on strategic goals for the
   course, major topics, prerequisites and preparation, textbook, technical requirements,
   and acknowledgements.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -12,7 +13,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « [Previous]({{< baseurl >}}/) | {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Next" %}} »
 
 About This Course
