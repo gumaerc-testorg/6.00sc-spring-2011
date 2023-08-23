@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains information about the final exam, review material,
   and Quiz 3 with solutions.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 3
@@ -14,7 +15,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab "Previous" %}} | {{% resource_link aa132f80-df80-dcc2-e350-0e9e999a3c25 "Next" %}} »
 
 Quiz 3 covers all material (lectures, recitations, and problem sets) from the beginning of the course through {{% resource_link 3e1b5283-96cd-c4ee-29eb-12fe1377a558 "Queuing Network Models" %}}, but will be weighted towards topics from the last unit.

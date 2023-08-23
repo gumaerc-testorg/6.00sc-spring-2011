@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides an overview of the third unit of the course.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Unit 3
@@ -10,7 +11,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link aebaeabd-9821-4fe6-8695-9cd2099b8391 "Previous" %}} | {{% resource_link fc440c95-aa3e-3ffa-8cff-14461dc75eee "Next" %}} »
 
 We start Unit 3 by continuing our discussion of data clustering from Unit 2. We introduce graphs as a set of nodes and edges, and learn how these can help solve degrees-of-separation problems and find a shortest path. We will practice using pseudocode as preparation for writing code, and learn about dynamic programming as we attempt to write optimally efficient programs.

@@ -2,6 +2,7 @@
 content_type: page
 description: This resource index gives users access to most of the course resources
   in a single location.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index
@@ -11,7 +12,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link f0df76f9-717f-330e-1b80-5da69fe42319 "Previous" %}}
 
 This resource index gives users access to most of the course resources in a single location.
