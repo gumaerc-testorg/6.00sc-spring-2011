@@ -3,6 +3,7 @@ content_type: page
 description: This section provides a list of references for the course, including
   textbooks, Python references, further readings, and links on probability and statistics
   for computer scientists, simulation methods, and breadth-first and depth-first searches.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: References
@@ -12,7 +13,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link 10678512-6d28-82a8-01cc-c0fc608f8ef3 "Previous" %}} | {{% resource_link 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6 "Next" %}} »
 
 Textbooks

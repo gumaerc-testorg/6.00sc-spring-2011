@@ -2,6 +2,7 @@
 content_type: page
 description: This section describes the software required for the course, and provides
   download links, installation instructions, and exercises.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Software
@@ -11,7 +12,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link e96b35e9-4a97-9cbd-2101-868dae215a07 "Previous" %}} | {{% resource_link e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5 "Next" %}} »
 
 In 6.00, we will use the [Python programming language](http://python.org/). You'll also need an editor and/or development environment for writing and debugging your programs. In 6.00, we will be using [IDLE](https://docs.python.org/3/library/idle.html), a programming environment specially designed for Python programming and included with the Python distribution. These programs are available for installation on your personal computers (see below).

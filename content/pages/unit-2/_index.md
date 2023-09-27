@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides an overview of the second unit of the course.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Unit 2
@@ -10,7 +11,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link f47a2aad-b696-870f-d73f-2911223c7ebf "Previous" %}} | {{% resource_link 17410556-8f30-2907-b327-46f2da54236f "Next" %}} »
 
 Unit 2 begins with hash functions, which are useful for mapping large data sets. We will continue with a broad introduction to object-oriented programming languages (Python is an example), covering objects, classes, subclasses, abstract data types, exceptions, and inheritance. Other algorithmic concepts covered are "Big O notation," divide and conquer, merge sort, orders of growth, and amortized analysis.

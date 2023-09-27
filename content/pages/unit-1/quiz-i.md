@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains information about Quiz 1, review material, and
   Quiz 1 with solutions.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Unit 1
@@ -14,7 +15,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link 518bf74e-c414-e8ec-f4d5-55616396f6d0 "Previous" %}} | {{% resource_link ddc5db7a-5c64-e3bd-a565-b36f4ed76287 "Next" %}} »
 
 Quiz 1 covers all material (lectures, recitations, and problem sets) from the beginning of the course through {{% resource_link 51a3082b-b50b-dc70-f44f-e076ffa558d6 "Efficiency and Order of Growth" %}}.

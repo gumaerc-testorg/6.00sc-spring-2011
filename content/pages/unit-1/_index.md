@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides an overview of the first unit of the course.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Unit 1
@@ -10,7 +11,6 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5 "Previous" %}} | {{% resource_link "5b8b75cf-d4b0-ebf7-e606-27901932f396" "Next" %}} »
 
 We will start the semester by discussing the difference between imperative knowledge and definitional knowledge, between fixed program and stored program computers, and finally the definitions of syntax, static semantics, and semantics. We cover straight line, branching, and looping programs. Other topics include binary representation of numbers, orders of growth, and debugging programs.

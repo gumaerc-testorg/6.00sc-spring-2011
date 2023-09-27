@@ -22,7 +22,7 @@
     "website": "6-00sc-introduction-to-computer-science-and-programming-spring-2011"
   },
   "course_title": "Introduction to Computer Science and Programming",
-  "course_description": "This subject is aimed at students with **little or no programming experience**. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python programming language.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:\n\n*   A complete set of **Lecture Videos** by Prof. Guttag.\n*   Resources for each lecture video, such as **Handouts, Slides,** and **Code Files.**\n*   **Recitation Videos** by course TA's to review content and problem solving techniques.\n*   **Homework** problems with sample student solutions.\n*   **Further Study** collections of links to supplemental online content.\n*   **Self-Assessment** tools, including lecture questions with answers and unit quizzes with solutions, to assess your subject mastery.",
+  "course_description": "6.00SC Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on [DSpace \u2013 MIT\u2019s digital repository](https://dspace.mit.edu/handle/1721.1/150601). Please see the list of\u00a0[introductory programming courses](https://ocw.mit.edu/collections/introductory-programming/) and other programming courses from recent years.",
   "department_numbers": [
     "6"
   ],
@@ -32,14 +32,8 @@
     "content": "8f5a9bdc-3287-0b1d-41e6-bf4482f14274",
     "website": "6-00sc-introduction-to-computer-science-and-programming-spring-2011"
   },
-  "learning_resource_types": [
-    "Lecture Videos",
-    "Recitation Videos",
-    "Problem Sets with Solutions",
-    "Exams with Solutions",
-    "Online Textbook",
-    "Programming Assignments with Examples"
-  ],
-  "site_uid": "6e6cab1e-2351-4229-b18d-e1f851152bc7",
+  "learning_resource_types": [],
+  "site_uid": "ce6f7d33-2a93-404d-8546-a3c628c2b8b7",
+  "site_short_id": "6.00sc-spring-2011",
   "title": "Course Metadata"
 }
