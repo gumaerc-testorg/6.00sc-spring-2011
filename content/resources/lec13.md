@@ -2,6 +2,7 @@
 content_type: resource
 description: This is supporting file for some basic probability and plotting data.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/f0a94a6dac1ad9ae326b69a20d7bf420_lec13.py
+file_size: 3141
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

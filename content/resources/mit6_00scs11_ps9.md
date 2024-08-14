@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains instruction for problem set9: schedule optimization.'
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/74fa9ea1abae236f3f0615f8ec039e39_MIT6_00SCS11_ps9.pdf
+file_size: 101264
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

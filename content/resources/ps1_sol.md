@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a sample solution file of problem set 01.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9f9daae47732df062dde52757f9f06eb_ps1_sol.zip
+file_size: 2097
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

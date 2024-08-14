@@ -2,6 +2,7 @@
 content_type: resource
 description: This folder contains 3 .py files.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9c7269110becbf03d487310ce3ac60d5_ps6.zip
+file_size: 6445
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

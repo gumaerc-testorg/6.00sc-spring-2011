@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for using randomness to solve non-random problems.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6c44b8b573d1ca02db752a950b1f0523_lec16.py
+file_size: 3727
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

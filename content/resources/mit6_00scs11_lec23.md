@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to dynamic programming.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8d35be044e4ec20af733097af85e1fa5_MIT6_00SCS11_lec23.pdf
+file_size: 111103
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
