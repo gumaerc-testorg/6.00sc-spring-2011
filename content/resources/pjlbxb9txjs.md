@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9d3db248414f35cbaef72a53725ef3f1_pjLbxB9TXJs.srt
+file_size: 45655
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

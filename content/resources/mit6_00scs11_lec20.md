@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to more clustering.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/60df582d4c812a787695952b65aced83_MIT6_00SCS11_lec20.pdf
+file_size: 61133
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

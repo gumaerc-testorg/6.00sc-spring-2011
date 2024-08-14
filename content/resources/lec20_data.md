@@ -2,6 +2,7 @@
 content_type: resource
 description: This folder contains 3 .txt files.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/825878e7db0c30e1d516d3281c251d4c_lec20_data.zip
+file_size: 112200
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

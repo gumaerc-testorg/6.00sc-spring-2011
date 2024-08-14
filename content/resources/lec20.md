@@ -2,6 +2,7 @@
 content_type: resource
 description: A supporting file of lecture code in Python .py format.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/5c2ca1161808cbe2ec41f8000773ad78_lec20.py
+file_size: 18471
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

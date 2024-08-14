@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/381bd4c801da26c7934eea69c0324fda_ses-12.jpg
+file_size: 5206
 file_type: image/jpeg
 image_metadata:
   caption: ''

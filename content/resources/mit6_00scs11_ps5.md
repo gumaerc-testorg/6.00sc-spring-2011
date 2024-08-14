@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to rss feed filter.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8750511b866736cb916fad0b5e7d96b0_MIT6_00SCS11_ps5.pdf
+file_size: 183307
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

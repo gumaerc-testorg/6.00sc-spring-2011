@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to statistical thinking.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/26b03957d86721958dbe57766d380ef4_MIT6_00SCS11_lec15.pdf
+file_size: 61471
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

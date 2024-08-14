@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for problem solving.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/f57eb256134ad5f09e1e48ed205fad7f_lec03.py
+file_size: 1693
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

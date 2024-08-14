@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to oop and inheritance.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/87a6a450109e6d1b3ab6ba8e8e42bdd3_MIT6_00SCS11_lec11.pdf
+file_size: 64303
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
