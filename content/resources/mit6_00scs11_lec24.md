@@ -2,6 +2,7 @@
 content_type: resource
 description: this resource contains information about avoiding statistical fallacies.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/088e3e12db9e5f3f90479136ace619a5_MIT6_00SCS11_lec24.pdf
+file_size: 731306
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

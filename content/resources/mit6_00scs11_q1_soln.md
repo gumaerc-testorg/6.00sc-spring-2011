@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information about quiz 1 solutions. '
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/27dd69776df59f6c8b30cfed5ae059cb_MIT6_00SCS11_q1_soln.pdf
+file_size: 78226
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

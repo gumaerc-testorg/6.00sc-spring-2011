@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to recursion.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/3a5ebc039238f675c60ec1a490096b18_MIT6_00SCS11_ps2.pdf
+file_size: 83074
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

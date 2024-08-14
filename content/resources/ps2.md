@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for recursion.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/4bafc5d1520e9d885e18766b1c4ef47d_ps2.zip
+file_size: 183999
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

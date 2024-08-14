@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to quiz 2.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/500b345f63ec847b891cb2a2da022978_MIT6_00SCS11_q2.pdf
+file_size: 108492
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

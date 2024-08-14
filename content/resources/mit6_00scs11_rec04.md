@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about rec 4.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/40c9c46fcf6cd68e91a011ea04feb1d9_MIT6_00SCS11_rec04.pdf
+file_size: 218780
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

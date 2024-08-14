@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a sample file for problem set 03.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dd829e0616f7e3d934ee93e562b23da3_ps3_sol.zip
+file_size: 6480
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

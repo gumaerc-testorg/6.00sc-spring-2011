@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to using graphs to model problems,
   part 2.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e8d25aca033099097b9e71b5a63bb4e1_MIT6_00SCS11_lec22.pdf
+file_size: 60676
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

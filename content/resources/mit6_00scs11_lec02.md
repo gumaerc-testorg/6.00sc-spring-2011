@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to core elements of a program.
 file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/3e555ff2781e620d8659f34488769974_MIT6_00SCS11_lec02.pdf
+file_size: 61054
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
