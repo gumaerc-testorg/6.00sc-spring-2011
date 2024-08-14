@@ -60,7 +60,7 @@ Further Readings
     *   [Section 11.5](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap11.html) in _How to Think Like a Computer Scientist_
     *   The [Exceptions](http://docs.python.org/release/2.5.4/tut/node10.html) chapter in the Python Tutorial
 *   Recursion
-    *   The [Recursion]({{< baseurl >}}/pages/unit-1/lecture-6-recursion/lecture-6-recursion) chapter in _An Introduction to Python_
+    *   The {{% resource_link "6f175d89-5f9c-6355-2ca8-8c3cef056c58" "Recursion" %}} chapter in _An Introduction to Python_
     *   [Sections 4.9-4.11](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap04.html) in _How to Think Like a Computer Scientist_
 
 Probability and Statistics for Computer Scientists

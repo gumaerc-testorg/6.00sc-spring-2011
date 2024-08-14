@@ -1,9 +1,9 @@
 leftnav:
-- identifier: external--236184328-1684163397789
+- identifier: 9f6e3e3c-0bda-4f8f-9d7c-9db2dd1cf179
   name: Introductory Programming Courses
-  url: https://ocw.mit.edu/collections/introductory-programming/
+  pageRef: /external-resources/introductory-programming-courses_9f6e3e3c-0bda-4f8f-9d7c-9db2dd1cf179
   weight: 10
-- identifier: external-1372501303-1685043003930
-  name: Archived D-Space Course
-  url: https://dspace.mit.edu/handle/1721.1/150601
+- identifier: 302bf23a-1209-419a-8c74-48b2573e440a
+  name: Archived DSpace Course
+  pageRef: /external-resources/archived-d-space-course_302bf23a-1209-419a-8c74-48b2573e440a
   weight: 20
