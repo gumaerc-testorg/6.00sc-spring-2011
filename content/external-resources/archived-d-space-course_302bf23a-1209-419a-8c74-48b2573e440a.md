@@ -1,11 +1,11 @@
 ---
 content_type: external-resource
-external_url: https://ocw.mit.edu/collections/introductory-programming/
+external_url: https://dspace.mit.edu/handle/1721.1/150601
 has_external_license_warning: true
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
-title: Introductory Programming Courses
-uid: 9f6e3e3c-0bda-4f8f-9d7c-9db2dd1cf179
+title: Archived DSpace Course
+uid: 302bf23a-1209-419a-8c74-48b2573e440a
 url_status_code: 200
 wayback_url: ''
 ---
