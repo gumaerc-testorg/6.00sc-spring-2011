@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for curve fitting.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6b9734f234ad117b4733fc25f357ec22_lec17.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6b9734f234ad117b4733fc25f357ec22_lec17.py
 file_size: 7825
 file_type: text/python-source
 learning_resource_types: []

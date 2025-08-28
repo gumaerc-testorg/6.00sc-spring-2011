@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to debugging.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/96f08eda3e209e949f936169f2628c3d_MIT6_00SCS11_lec07_slides.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/96f08eda3e209e949f936169f2628c3d_MIT6_00SCS11_lec07_slides.pdf
 file_size: 491005
 file_type: application/pdf
 learning_resource_types: []

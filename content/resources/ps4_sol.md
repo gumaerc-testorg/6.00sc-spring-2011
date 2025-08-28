@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a sample file of problem set 04.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/ba96a4843a04b800654367757fe46d8c_ps4_sol.zip
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/ba96a4843a04b800654367757fe46d8c_ps4_sol.zip
 file_size: 4025
 file_type: application/zip
 learning_resource_types: []

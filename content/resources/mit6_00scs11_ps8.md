@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set related to simulating the spread of
   disease and virus population.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/08d77c37a70d288d2325ef78cc7079aa_MIT6_00SCS11_ps8.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/08d77c37a70d288d2325ef78cc7079aa_MIT6_00SCS11_ps8.pdf
 file_size: 94690
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for machine interpretation of a program.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e3f2450fe7bfcad1f1306f18ac95c9bd_lec04.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e3f2450fe7bfcad1f1306f18ac95c9bd_lec04.py
 file_size: 2387
 file_type: text/python-source
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/422a2bb173da5d70bcd3f3290362b00c_UiZlaJX3IRk.vtt
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/422a2bb173da5d70bcd3f3290362b00c_UiZlaJX3IRk.vtt
 file_size: 54455
 file_type: application/x-subrip
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to optimization problems and
   algorithms.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dc8e5dc3820ebec310f3bdc8eb814b87_MIT6_00SCS11_lec18.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dc8e5dc3820ebec310f3bdc8eb814b87_MIT6_00SCS11_lec18.pdf
 file_size: 89600
 file_type: application/pdf
 learning_resource_types: []

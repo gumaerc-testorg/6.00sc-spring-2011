@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This folder contain 9.py and 1 .txt files.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6a8d6217ad4f264b9a312d05bb6d430e_ps5.zip
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6a8d6217ad4f264b9a312d05bb6d430e_ps5.zip
 file_size: 77660
 file_type: application/zip
 learning_resource_types: []

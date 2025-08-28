@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to using randomness to solve
   non-random problems.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/320ee40e186e1a1608eff7b89083fb40_MIT6_00SCS11_lec16.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/320ee40e186e1a1608eff7b89083fb40_MIT6_00SCS11_lec16.pdf
 file_size: 62830
 file_type: application/pdf
 learning_resource_types: []
