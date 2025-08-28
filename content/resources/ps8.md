@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This folder contains 1 .py and 1 .pyc files.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/297153e1521b260638468d15e00d58c4_ps8.zip
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/297153e1521b260638468d15e00d58c4_ps8.zip
 file_size: 4995
 file_type: application/zip
 learning_resource_types: []

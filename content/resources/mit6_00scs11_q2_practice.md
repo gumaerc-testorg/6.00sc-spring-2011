@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about quiz 2 practice.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/cc2de09b956255d1a6c2bd2f844cd23f_MIT6_00SCS11_q2_practice.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/cc2de09b956255d1a6c2bd2f844cd23f_MIT6_00SCS11_q2_practice.pdf
 file_size: 104521
 file_type: application/pdf
 learning_resource_types: []

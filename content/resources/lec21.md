@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for using graphs to model problems, part 1.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/78807f07634727bc6c500f3a475542c7_lec21.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/78807f07634727bc6c500f3a475542c7_lec21.py
 file_size: 19848
 file_type: text/python-source
 learning_resource_types: []

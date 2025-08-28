@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to memory and search methods.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/18f23403c7c5e742a0bf9886b859f300_MIT6_00SCS11_lec09.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/18f23403c7c5e742a0bf9886b859f300_MIT6_00SCS11_lec09.pdf
 file_size: 101395
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to queuing network models.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1eff8cb6d1dbe780d0711e6bb6e95f70_MIT6_00SCS11_lec25.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1eff8cb6d1dbe780d0711e6bb6e95f70_MIT6_00SCS11_lec25.pdf
 file_size: 57180
 file_type: application/pdf
 learning_resource_types: []

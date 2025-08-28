@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about quiz 3 solutions.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1d720b8922cc34ad5de65330be0caf12_MIT6_00SCS11_q3_soln.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/1d720b8922cc34ad5de65330be0caf12_MIT6_00SCS11_q3_soln.pdf
 file_size: 157749
 file_type: application/pdf
 learning_resource_types: []

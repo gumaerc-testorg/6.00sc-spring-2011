@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is supporting file for sampling and monte carlo simulation.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/feb450c2d0f295d194da46883f9b28b5_lec14.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/feb450c2d0f295d194da46883f9b28b5_lec14.py
 file_size: 3108
 file_type: text/python-source
 learning_resource_types: []

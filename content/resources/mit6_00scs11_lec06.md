@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about recursion.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/c49ccca569671754141d71e5aad25323_MIT6_00SCS11_lec06.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/c49ccca569671754141d71e5aad25323_MIT6_00SCS11_lec06.pdf
 file_size: 62077
 file_type: application/pdf
 learning_resource_types: []

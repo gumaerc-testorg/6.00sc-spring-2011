@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about quiz 3 topics.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/d6587cb90ff75c6bb7ab1ba345fa95c3_MIT6_00SCS11_q3_topics.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/d6587cb90ff75c6bb7ab1ba345fa95c3_MIT6_00SCS11_q3_topics.pdf
 file_size: 24068
 file_type: application/pdf
 learning_resource_types: []

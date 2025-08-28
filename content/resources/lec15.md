@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for statistical thinking.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/05fb26590ec9b19506a0f290a669b8ab_lec15.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/05fb26590ec9b19506a0f290a669b8ab_lec15.py
 file_size: 4004
 file_type: text/python-source
 learning_resource_types: []

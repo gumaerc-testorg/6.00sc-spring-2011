@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set related to simulating robots.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8d80b4562cc6d20fd30bbed04c7a9961_MIT6_00SCS11_ps6.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8d80b4562cc6d20fd30bbed04c7a9961_MIT6_00SCS11_ps6.pdf
 file_size: 238578
 file_type: application/pdf
 learning_resource_types: []

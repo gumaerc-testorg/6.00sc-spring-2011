@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for memory and search methods.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/022119d57a47311f471507f58666d667_lec09.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/022119d57a47311f471507f58666d667_lec09.py
 file_size: 2775
 file_type: text/python-source
 learning_resource_types: []

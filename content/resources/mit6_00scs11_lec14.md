@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to sampling and monte carlo
   simulation.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/a6f0b19f29928c48902382bab7c02220_MIT6_00SCS11_lec14.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/a6f0b19f29928c48902382bab7c02220_MIT6_00SCS11_lec14.pdf
 file_size: 95725
 file_type: application/pdf
 learning_resource_types: []

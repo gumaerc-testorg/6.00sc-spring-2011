@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem set related to pseudocode.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dc7676bdec5c909f89f943a4cd4043a9_MIT6_00SCS11_ps4-pseudo.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dc7676bdec5c909f89f943a4cd4043a9_MIT6_00SCS11_ps4-pseudo.pdf
 file_size: 108414
 file_type: application/pdf
 learning_resource_types: []
