@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides for more optimization and clustering.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/094759947bb729ecf1a7c28ec7522374_MIT6_00SCS11_lec19_slides.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/094759947bb729ecf1a7c28ec7522374_MIT6_00SCS11_lec19_slides.pdf
 file_size: 129563
 file_type: application/pdf
 learning_resource_types: []

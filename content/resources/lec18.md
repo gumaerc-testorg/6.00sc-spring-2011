@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for optimization problem and algorithms
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/5322014fac2e79bd6aa08af9a654f4cc_lec18.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/5322014fac2e79bd6aa08af9a654f4cc_lec18.py
 file_size: 6749
 file_type: text/python-source
 learning_resource_types: []

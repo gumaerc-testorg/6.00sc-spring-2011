@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for avoiding statistical fallacies.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/2746b2c20cffddbd2a0263340e11eab7_lec24.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/2746b2c20cffddbd2a0263340e11eab7_lec24.py
 file_size: 3214
 file_type: text/python-source
 learning_resource_types: []

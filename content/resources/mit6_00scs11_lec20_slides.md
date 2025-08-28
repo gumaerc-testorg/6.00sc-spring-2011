@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to more clustering.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e09f895cc2c03cc07388e4440df7b2f7_MIT6_00SCS11_lec20_slides.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e09f895cc2c03cc07388e4440df7b2f7_MIT6_00SCS11_lec20_slides.pdf
 file_size: 163170
 file_type: application/pdf
 learning_resource_types: []

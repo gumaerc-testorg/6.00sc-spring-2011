@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to objects in python.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/40f2efe5948f3d0e8cc7a1d9a17298a1_MIT6_00SCS11_lec05.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/40f2efe5948f3d0e8cc7a1d9a17298a1_MIT6_00SCS11_lec05.pdf
 file_size: 53905
 file_type: application/pdf
 learning_resource_types: []

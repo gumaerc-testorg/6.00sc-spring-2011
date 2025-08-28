@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for queuing network models.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/c0941d0719bf598faae5cf02794f03ce_lec25.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/c0941d0719bf598faae5cf02794f03ce_lec25.py
 file_size: 662
 file_type: text/python-source
 learning_resource_types: []

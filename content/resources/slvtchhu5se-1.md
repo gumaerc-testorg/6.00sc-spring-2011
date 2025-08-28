@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/85fe538055838896f266a9c2a59d2ada_SLvTCHhu5SE.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/85fe538055838896f266a9c2a59d2ada_SLvTCHhu5SE.pdf
 file_size: 62743
 file_type: application/pdf
 learning_resource_types: []

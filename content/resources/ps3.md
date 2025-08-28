@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for debugging.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/032952066efad9ea5528acaeacb4bf4a_ps3.zip
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/032952066efad9ea5528acaeacb4bf4a_ps3.zip
 file_size: 213141
 file_type: application/zip
 learning_resource_types: []

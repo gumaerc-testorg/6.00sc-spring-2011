@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file containing bus code.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/bd9c780a5ca21d576f6bbc5d2becadfc_q3_bus.py
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/bd9c780a5ca21d576f6bbc5d2becadfc_q3_bus.py
 file_size: 6138
 file_type: text/python-source
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about lecture 3.
-file: /courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/eba5e6fd322af1ea1ed826051df22062_MIT6_00SCS11_lec03.pdf
+file: /ol-ocw-studio-app/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/eba5e6fd322af1ea1ed826051df22062_MIT6_00SCS11_lec03.pdf
 file_size: 52738
 file_type: application/pdf
 learning_resource_types: []
