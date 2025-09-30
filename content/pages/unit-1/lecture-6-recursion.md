@@ -30,7 +30,7 @@ Session Overview
 
 This lecture finishes the discussion of dictionaries, then introduces inductive reasoning and recursion. Examples include generating the Fibonacci sequence and solving the Towers of Hanoi problem.
 
-_Image courtesy of [Stephen & Claire Farnsworth](http://www.flickr.com/photos/the_farnsworths/5808550435/in/photostream/) on Flickr._
+_Image courtesy of {{% resource_link "20c49c49-c9f7-4e24-ae5e-5dea25a5a575" "Stephen & Claire Farnsworth" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -128,9 +128,9 @@ These optional resources are provided for students that wish to explore this top
 
 After watching the lecture, you may want to read some of the following resources:
 
-*   [4.9 Recursion](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap04.html). How to Think Like a Computer Scientist.
-*   [Recursion](http://www.slideshare.net/dtinth/introduction-to-recursion-python). An Introduction to Python.
-*   [Comparing Recursion and Looping](http://troll.cs.ua.edu/ACP-PY/index_18.html). An Introduction to Python.
+*   {{% resource_link "128c764a-5499-43e8-8839-4fd3f892ce87" "4.9 Recursion" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "7761b5e1-fdce-4d81-89b6-7d41a38fd62d" "Recursion" %}}. An Introduction to Python.
+*   {{% resource_link "a5bd2d0e-d604-487e-9331-3a3b9424f160" "Comparing Recursion and Looping" %}}. An Introduction to Python.
 
 ### Related Lectures
 

@@ -30,7 +30,7 @@ Session Overview
 
 This lecture introduces the notion of decomposition and abstraction by specification. It also covers Python modules, functions, parameters, and scoping. Finally, it uses the Python assert statement and type 'str'.
 
-_Image courtesy of [The Consumerist](http://www.flickr.com/photos/consumerist/4406234952/) on Flickr._
+_Image courtesy of {{% resource_link "aec74197-cc23-4753-82ce-e36c861c51db" "The Consumerist" %}} on Flickr._
 
 
 {{< tdclose >}}

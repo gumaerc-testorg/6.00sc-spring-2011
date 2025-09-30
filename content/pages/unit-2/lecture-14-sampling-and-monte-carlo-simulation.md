@@ -138,6 +138,6 @@ These optional resources are provided for students that wish to explore this top
 
 ### Readings
 
-*   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
+*   {{% resource_link "71aec79d-8a0e-4755-8f5c-e8977224fb36" "Monte Carlo method" %}}. Wikipedia.
 
 « {{% resource_link fbfa6485-7038-d1fe-9497-74c45d99d5e0 "Previous" %}} | {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Next" %}} »

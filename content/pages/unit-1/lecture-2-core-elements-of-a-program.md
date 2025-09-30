@@ -30,7 +30,7 @@ Session Overview
 
 This lecture covers the building blocks of straight line and branching programs: objects, types, operators, variables, execution, and conditional statements.
 
-_Image courtesy of [southtyrolean](http://www.flickr.com/photos/schoffer/196079076/) on Flickr._
+_Image courtesy of {{% resource_link "2912de08-bbf8-4727-8207-5fb341d3fc2f" "southtyrolean" %}} on Flickr._
 
 
 {{< tdclose >}}

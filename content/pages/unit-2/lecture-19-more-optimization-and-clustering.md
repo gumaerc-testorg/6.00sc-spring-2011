@@ -29,7 +29,7 @@ Session Overview
 
 This lecture continues to discuss optimization in the context of the knapsack problem, and talks about the difference between greedy approaches and optimal approaches. It then moves on to discuss supervised and unsupervised machine learning optimization problems. Most of the time is spent on clustering.
 
-_Image courtesy of [Squiggle](http://www.flickr.com/photos/stephenr/4151278461/) on Flickr._
+_Image courtesy of {{% resource_link "2b35e4dd-b56a-41c3-9cf6-8dfb3b4d6a50" "Squiggle" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ What is machine learning?
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
-"A scientific discipline that is concerned with the design and development of algorithms that allow computers to evolve behaviors based on empirical data." From [Wikipedia](http://en.wikipedia.org/wiki/Machine_learning).
+"A scientific discipline that is concerned with the design and development of algorithms that allow computers to evolve behaviors based on empirical data." From {{% resource_link "aef3a5e9-9715-481c-bc8a-d87416881ea9" "Wikipedia" %}}.
 
 {{< /div-with-class >}}
 

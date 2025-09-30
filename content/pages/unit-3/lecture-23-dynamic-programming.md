@@ -29,7 +29,7 @@ Session Overview
 
 This lecture introduces dynamic programming, and discusses the notions of optimal substructure and overlapping subproblems.
 
-_Image courtesy of [aaroninthe360](http://www.flickr.com/photos/aaroninthe360/5694044516/in/photostream/) on Flickr._
+_Image courtesy of {{% resource_link "fbc137ae-7b09-49c5-8443-1fa6e1524946" "aaroninthe360" %}} on Flickr._
 
 
 {{< tdclose >}}

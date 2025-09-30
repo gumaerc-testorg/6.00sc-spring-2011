@@ -30,7 +30,7 @@ Session Overview
 
 This lecture introduces Python tuples, lists, and dictionaries, as well as the concept of mutability and how to avoid problems relating to it.
 
-_Image courtesy of [enter](http://www.flickr.com/photos/enter/11960491/) on Flickr._
+_Image courtesy of {{% resource_link "fcf6b4c9-59fd-4c48-a94e-bac45bce7062" "enter" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -115,11 +115,11 @@ These optional resources are provided for students that wish to explore this top
 
 After watching the lecture, you may want to read some of the following resources:
 
-*   [8\. Lists](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap08.html). How to Think Like a Computer Scientist.
-*   [9\. Tuples](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html). How to Think Like a Computer Scientist.
-*   [10\. Dictionaries](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap10.html). How to Think Like a Computer Scientist.
-*   [5.1 More on Lists](http://docs.python.org/tutorial/datastructures.html#more-on-lists). Python Tutorial.
-*   [5.3 Tuples as Sequences](http://docs.python.org/tutorial/datastructures.html#tut-tuples). Python Tutorial.
-*   [5.5 Dictionaries](http://docs.python.org/tutorial/datastructures.html#dictionaries). Python Tutorial.
+*   {{% resource_link "ea7de8ef-2a5f-4896-9223-19341890e0ea" "8\. Lists" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "0a66fb5a-09bd-4049-b4ed-82e7cc7e14a1" "9\. Tuples" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "3b8024e1-741c-45ae-ad88-61ed46031660" "10\. Dictionaries" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "85b4358c-b2d2-449a-908b-4895524a496b" "5.1 More on Lists" %}}. Python Tutorial.
+*   {{% resource_link "0bab8a9f-7ec1-4dc5-8473-6455e6ac7295" "5.3 Tuples as Sequences" %}}. Python Tutorial.
+*   {{% resource_link "5e166d72-e824-4535-9e63-157dc1306738" "5.5 Dictionaries" %}}. Python Tutorial.
 
 « {{% resource_link f13e5af9-52a2-f007-e596-f80bc01059fe "Previous" %}} | {{% resource_link 99fb7e49-022e-2ef5-90b8-a591159332ed "Next" %}} »

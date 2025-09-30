@@ -30,7 +30,7 @@ Session Overview
 
 This lecture covers hierarchical clustering and introduces k-means clustering.
 
-_This image is from the [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Manhattan_distance.svg). This image is in the public domain._
+_This image is from the {{% resource_link "0e77f3cd-5662-410a-beca-03448a0b4a33" "Wikimedia Commons" %}}. This image is in the public domain._
 
 
 {{< tdclose >}}

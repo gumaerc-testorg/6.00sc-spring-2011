@@ -30,7 +30,7 @@ Session Overview
 
 This lecture completes the introduction of classes by showing a way to implement user-defined iterators. It then discusses simulation models, and illustrates some of the ideas underlying simulations modeling by simulating a random walk.
 
-_Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._
+_Image courtesy of {{% resource_link "92556409-d75d-4872-8fc0-82c054a746fe" "donovanbeeson" %}} on Flickr._
 
 
 {{< tdclose >}}
