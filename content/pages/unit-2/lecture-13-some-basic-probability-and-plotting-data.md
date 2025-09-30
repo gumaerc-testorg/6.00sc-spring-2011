@@ -29,7 +29,7 @@ Session Overview
 
 This lecture returns briefly to random walks, and moves on to discuss different views of non-determinism and an introduction to probability. It concludes with examples of using pylab to plot data.
 
-_Image courtesy of [Lonnie Dunn](http://www.flickr.com/photos/archaicwarrior/3992002490/) on Flickr._
+_Image courtesy of {{% resource_link "64a7738a-f6da-4469-8575-b1cf0b690f52" "Lonnie Dunn" %}} on Flickr._
 
 
 {{< tdclose >}}

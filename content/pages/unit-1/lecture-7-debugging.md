@@ -30,7 +30,7 @@ Session Overview
 
 This lecture starts with a brief explanation of why floating point numbers are only an approximation of the real numbers. Most of the lecture is about a systematic approach to debugging.
 
-_Image courtesy of the [Naval Surface Warfare Center](https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/), Dahlgren, VA._
+_Image courtesy of the {{% resource_link "f52e661c-4106-42b5-9bfb-c3f095162e13" "Naval Surface Warfare Center" %}}, Dahlgren, VA._
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ These optional resources are provided for students that wish to explore this top
 
 After watching the lecture, you may want to read some of the following resources:
 
-*   [8\. Errors and Exceptions](http://docs.python.org/tutorial/errors.html). Python Tutorial.
-*   [Appendix A: Debugging](http://www.greenteapress.com/thinkpython/thinkCSpy/html/app01.html). How to Think Like a Computer Scientist.
+*   {{% resource_link "bde0ba71-a5c4-4c9f-8d30-0c3d2e02f1b5" "8\. Errors and Exceptions" %}}. Python Tutorial.
+*   {{% resource_link "2deeadf9-732c-4821-99a6-92695f8e6503" "Appendix A: Debugging" %}}. How to Think Like a Computer Scientist.
 
 « {{% resource_link 99fb7e49-022e-2ef5-90b8-a591159332ed "Previous" %}} | {{% resource_link 51a3082b-b50b-dc70-f44f-e076ffa558d6 "Next" %}} »

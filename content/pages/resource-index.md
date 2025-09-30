@@ -77,7 +77,7 @@ None
 
 ### Readings
 
-*   [The Python Standard Library](http://docs.python.org/library/)
+*   {{% resource_link "7e3567aa-76bc-4d87-9ce2-f04ecea444de" "The Python Standard Library" %}}
 *   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
 
 
@@ -160,7 +160,7 @@ None
 
 ### Readings
 
-*   [Loops](https://opentechschool.github.io/python-beginners/en/loops.html). An Introduction to Python.
+*   {{% resource_link "758b1ca9-ed71-41d1-97c0-eedfebe76a1a" "Loops" %}}. An Introduction to Python.
 
 
 {{< tdclose >}}
@@ -244,12 +244,12 @@ None
 
 ### Readings
 
-*   [8\. Lists](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap08.html). How to Think Like a Computer Scientist.
-*   [9\. Tuples](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html). How to Think Like a Computer Scientist.
-*   [10\. Dictionaries](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap10.html). How to Think Like a Computer Scientist.
-*   [5.1 More on Lists](http://docs.python.org/tutorial/datastructures.html#more-on-lists). Python Tutorial.
-*   [5.3 Tuples as Sequences](http://docs.python.org/tutorial/datastructures.html#tut-tuples). Python Tutorial.
-*   [5.5 Dictionaries](http://docs.python.org/tutorial/datastructures.html#dictionaries). Python Tutorial.
+*   {{% resource_link "ea7de8ef-2a5f-4896-9223-19341890e0ea" "8\. Lists" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "0a66fb5a-09bd-4049-b4ed-82e7cc7e14a1" "9\. Tuples" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "3b8024e1-741c-45ae-ad88-61ed46031660" "10\. Dictionaries" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "85b4358c-b2d2-449a-908b-4895524a496b" "5.1 More on Lists" %}}. Python Tutorial.
+*   {{% resource_link "0bab8a9f-7ec1-4dc5-8473-6455e6ac7295" "5.3 Tuples as Sequences" %}}. Python Tutorial.
+*   {{% resource_link "5e166d72-e824-4535-9e63-157dc1306738" "5.5 Dictionaries" %}}. Python Tutorial.
 
 
 {{< tdclose >}}
@@ -293,9 +293,9 @@ None
 
 ### Readings
 
-*   [4.9 Recursion](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap04.html). How to Think Like a Computer Scientist.
-*   [Recursion](http://www.slideshare.net/dtinth/introduction-to-recursion-python). An Introduction to Python.
-*   [Comparing Recursion and Looping](http://troll.cs.ua.edu/ACP-PY/index_18.html). An Introduction to Python.
+*   {{% resource_link "128c764a-5499-43e8-8839-4fd3f892ce87" "4.9 Recursion" %}}. How to Think Like a Computer Scientist.
+*   {{% resource_link "7761b5e1-fdce-4d81-89b6-7d41a38fd62d" "Recursion" %}}. An Introduction to Python.
+*   {{% resource_link "a5bd2d0e-d604-487e-9331-3a3b9424f160" "Comparing Recursion and Looping" %}}. An Introduction to Python.
 
 ### Related Lectures
 
@@ -344,8 +344,8 @@ None
 
 ### Readings
 
-*   [8\. Errors and Exceptions](http://docs.python.org/tutorial/errors.html). Python Tutorial.
-*   [Appendix A: Debugging](http://www.greenteapress.com/thinkpython/thinkCSpy/html/app01.html). How to Think Like a Computer Scientist.
+*   {{% resource_link "bde0ba71-a5c4-4c9f-8d30-0c3d2e02f1b5" "8\. Errors and Exceptions" %}}. Python Tutorial.
+*   {{% resource_link "2deeadf9-732c-4821-99a6-92695f8e6503" "Appendix A: Debugging" %}}. How to Think Like a Computer Scientist.
 
 
 {{< tdclose >}}
@@ -429,7 +429,7 @@ _Note: Solutions are not available for this assignment._
 
 ### Readings
 
-*   [8.7. Sets—Unordered collections of unique elements](https://web.archive.org/web/20120410204204/http://docs.python.org/library/sets.html). Python Standard Library.
+*   {{% resource_link "4692fb18-778a-4296-beab-38dffd791497" "8.7. Sets—Unordered collections of unique elements" %}}. Python Standard Library.
 
 ### Related Lectures
 
@@ -561,7 +561,7 @@ _Note: Solutions are not available for this assignment._
 
 ### Readings
 
-*   [12\. Classes and objects](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap12.html). How to Think Like a Computer Scientist.
+*   {{% resource_link "0ba53fcd-9cc9-45f0-ae7b-b6e1d14cf2d3" "12\. Classes and objects" %}}. How to Think Like a Computer Scientist.
 
 ### Related Lectures
 
@@ -702,7 +702,7 @@ None
 
 ### Readings
 
-*   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
+*   {{% resource_link "71aec79d-8a0e-4755-8f5c-e8977224fb36" "Monte Carlo method" %}}. Wikipedia.
 
 
 {{< tdclose >}}
@@ -766,8 +766,8 @@ None
 {{< tdopen >}}
 
 
-*   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
-*   [Matplotlib](http://matplotlib.sourceforge.net/)
+*   {{% resource_link "71aec79d-8a0e-4755-8f5c-e8977224fb36" "Monte Carlo method" %}}. Wikipedia.
+*   {{% resource_link "ff229090-2be2-400a-bb41-e16075af6562" "Matplotlib" %}}
 
 
 {{< tdclose >}}
@@ -1101,7 +1101,7 @@ None
 {{< tdopen >}}
 
 
-*   [7.2 Reading and Writing Files](http://docs.python.org/tutorial/inputoutput.html#reading-and-writing-files). Python Tutorial.
+*   {{% resource_link "d62efbef-e5b0-4df9-97c5-c18770010ae1" "7.2 Reading and Writing Files" %}}. Python Tutorial.
 
 
 {{< tdclose >}}

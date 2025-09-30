@@ -30,7 +30,7 @@ Session Overview
 
 This lecture returns to graph theory. It defines and gives examples of some classic graph problems: shortest path, shortest weighted path, cliques, and min-cut. It then shows how memoization can be used to speed up some algorithms.
 
-_[Centers for Disease Control and Prevention](http://www.cdc.gov/). This image is in the public domain._
+_{{% resource_link "90ceb016-cf85-45af-bade-73bd5b5825fe" "Centers for Disease Control and Prevention" %}}. This image is in the public domain._
 
 
 {{< tdclose >}}

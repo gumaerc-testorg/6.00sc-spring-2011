@@ -87,6 +87,6 @@ These optional resources are provided for students that wish to explore this top
 
 ### Readings
 
-*   [Loops](https://opentechschool.github.io/python-beginners/en/loops.html). An Introduction to Python.
+*   {{% resource_link "758b1ca9-ed71-41d1-97c0-eedfebe76a1a" "Loops" %}}. An Introduction to Python.
 
 « {{% resource_link 5a8ad51b-351a-4b3f-0c09-861452ea827d "Previous" %}} | {{% resource_link f13e5af9-52a2-f007-e596-f80bc01059fe "Next" %}} »
