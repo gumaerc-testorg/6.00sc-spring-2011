@@ -30,7 +30,7 @@ Session Overview
 
 This lecture continues the discussion of curve fitting, emphasizing the interplay among theory, experimentation, and computation and addressing the problem of over-fitting. It then moves on to introduce the notion of an optimization problem, and illustrates it using the 0/1 knapsack problem.
 
-_Image courtesy of [kob42kob](http://www.flickr.com/photos/kob42kob/52185287/) on Flickr._
+_Image courtesy of {{% resource_link "d904d27f-49d1-4913-bdc6-dec8e54ce8a2" "kob42kob" %}} on Flickr._
 
 
 {{< tdclose >}}

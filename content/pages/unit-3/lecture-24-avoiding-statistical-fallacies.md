@@ -30,7 +30,7 @@ Session Overview
 
 This lecture discusses some common ways that people use statistics to draw invalid or misleading conclusions.
 
-_Image courtesy of [spweber](http://www.flickr.com/photos/spweber/5016169104/in/photostream/) on Flickr._
+_Image courtesy of {{% resource_link "87a4c565-5d70-43c6-abfa-f5747ec542a4" "spweber" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -120,6 +120,6 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-*   [7.2 Reading and Writing Files](http://docs.python.org/tutorial/inputoutput.html#reading-and-writing-files). Python Tutorial.
+*   {{% resource_link "d62efbef-e5b0-4df9-97c5-c18770010ae1" "7.2 Reading and Writing Files" %}}. Python Tutorial.
 
 « {{% resource_link 142ece9e-e56e-5c28-8b69-1c969251db2d "Previous" %}} | {{% resource_link 3e1b5283-96cd-c4ee-29eb-12fe1377a558 "Next" %}} »

@@ -30,7 +30,7 @@ Session Overview
 
 This lecture presents ways of ascertaining how dependable information extracted from samples is likely to be. It covers standard deviation, coefficient of variation, and standard error. It also shows how to use pylab to produce histograms.
 
-_Image courtesy of [Kevin Dooley](http://www.flickr.com/photos/pagedooley/866975841/) on Flickr._
+_Image courtesy of {{% resource_link "08040e1a-34b0-4889-807e-dfe5cf28440e" "Kevin Dooley" %}} on Flickr._
 
 
 {{< tdclose >}}

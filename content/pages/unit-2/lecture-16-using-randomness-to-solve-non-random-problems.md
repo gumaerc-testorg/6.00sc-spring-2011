@@ -114,7 +114,7 @@ Further Study
 
 These optional resources are provided for students that wish to explore this topic more fully.
 
-*   [Monte Carlo method](http://en.wikipedia.org/wiki/Monte_Carlo_method). Wikipedia.
-*   [Matplotlib](http://matplotlib.sourceforge.net/)
+*   {{% resource_link "71aec79d-8a0e-4755-8f5c-e8977224fb36" "Monte Carlo method" %}}. Wikipedia.
+*   {{% resource_link "ff229090-2be2-400a-bb41-e16075af6562" "Matplotlib" %}}
 
 « {{% resource_link ce0b5b46-79ba-a326-f9fd-0a1c40f8adae "Previous" %}} | {{% resource_link e632ebd5-0e8f-47bb-2666-d9152f62e9e4 "Next" %}} »

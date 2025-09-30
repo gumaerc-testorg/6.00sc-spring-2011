@@ -51,13 +51,13 @@ Textbook
 
 The original textbook for 6.00 and the course lectures parallel each other, though there is more detail in the book about some topics. The book is NOT required. We will not be referring to it in assignments or depending upon it to cover holes in the lectures.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262519632) Guttag, John. _Introduction to Computation and Programming Using Python_. Spring 2013 edition. MIT Press, 2013. ISBN: 9780262519632.
+{{% resource_link "eafc12cf-fca4-43fd-9edb-f972d47f3578" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Guttag, John. _Introduction to Computation and Programming Using Python_. Spring 2013 edition. MIT Press, 2013. ISBN: 9780262519632.
 
 A second edition of the textbook is now available. However, there may be some discrepancies between the original course lectures included on this course site and the sections in this second edition of the textbook.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
+{{% resource_link "9bb483c9-be27-4a30-bf30-bca912f10430" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
 
-If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as {{% resource_link "d75a5a74-4447-4577-a11b-912595ea4709" "_How to Think Like a Computer Scientist_" %}} or {{% resource_link "38ab1855-8e9d-4f14-970a-01bacea64c66" "_An Introduction to Python_ (PDF)" %}}.
 
 Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the {{% resource_link e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5 "References" %}} section.
 

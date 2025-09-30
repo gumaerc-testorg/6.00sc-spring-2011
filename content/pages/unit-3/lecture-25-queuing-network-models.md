@@ -29,7 +29,7 @@ Session Overview
 
 This lecture introduces queuing network models and simulations. It also prepares students to read the code they are asked to study in preparation for the final exam.
 
-_Image courtesy of [welovepandas](http://www.flickr.com/photos/welovepandas/314186274/) on Flickr._
+_Image courtesy of {{% resource_link "c58f0043-5d51-44ef-a8a3-cf99a7703bde" "welovepandas" %}} on Flickr._
 
 
 {{< tdclose >}}

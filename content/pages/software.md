@@ -14,7 +14,7 @@ video_metadata:
 ---
 « {{% resource_link e96b35e9-4a97-9cbd-2101-868dae215a07 "Previous" %}} | {{% resource_link e96c4f6f-4fbe-2d6c-994e-20e1a0c829c5 "Next" %}} »
 
-In 6.00, we will use the [Python programming language](http://python.org/). You'll also need an editor and/or development environment for writing and debugging your programs. In 6.00, we will be using [IDLE](https://docs.python.org/3/library/idle.html), a programming environment specially designed for Python programming and included with the Python distribution. These programs are available for installation on your personal computers (see below).
+In 6.00, we will use the {{% resource_link "e624d730-0e6b-4cf0-8a68-7bbf4ccf2ecf" "Python programming language" %}}. You'll also need an editor and/or development environment for writing and debugging your programs. In 6.00, we will be using {{% resource_link "fdc77797-1839-4e20-aa22-6af1eb1245d1" "IDLE" %}}, a programming environment specially designed for Python programming and included with the Python distribution. These programs are available for installation on your personal computers (see below).
 
 Why Python?
 -----------
@@ -28,13 +28,13 @@ In this course, we will use Python. Python is a relatively recent addition to th
 Setting Up Python
 -----------------
 
-You can install the 6.00 software on your personal computer if your operating system is GNU/Linux, Windows (7/XP), or MacOS X. For Windows, you will need [Python version 2.5.4](http://www.python.org/download/releases/2.5.4/), while for OS X you'll need [Python 2.7.11](https://www.python.org/downloads/release/python-2711/) (any 2.5.x, 2.6.x, or 2.7.x version of Python will work, but 3.0 versions are NOT compatible). Below are direct links to the most common Python installers:
+You can install the 6.00 software on your personal computer if your operating system is GNU/Linux, Windows (7/XP), or MacOS X. For Windows, you will need {{% resource_link "e39f7fe1-ae40-43f3-9f56-1f78a3903e2d" "Python version 2.5.4" %}}, while for OS X you'll need {{% resource_link "c7f025ab-ac8d-4dc7-8403-4f7bab4e5f20" "Python 2.7.11" %}} (any 2.5.x, 2.6.x, or 2.7.x version of Python will work, but 3.0 versions are NOT compatible). Below are direct links to the most common Python installers:
 
 **Windows:**  
-Download and install: [Windows Installer](http://www.python.org/ftp/python/2.5.4/python-2.5.4.msi)
+Download and install: {{% resource_link "0f4e5a26-2af8-4d0b-9677-5b02b10d4ec6" "Windows Installer" %}}
 
 **Mac OS X:**  
-For OS X Yosemite and earlier, download and install: [Mac Installer](http://www.python.org/ftp/python/2.5.4/python-2.5.4-macosx.dmg). For OS X El Capitan and later, download and install [Anaconda](https://www.anaconda.com/distribution/) with Python 2.7 for OS X. Anaconda comes with numpy and matplotlib preinstalled, along with many other python libraries, so you may ignore the installation instructions for those libraries in Pset 6.
+For OS X Yosemite and earlier, download and install: {{% resource_link "26863449-7ec8-4da5-8dc6-5d5b305823b6" "Mac Installer" %}}. For OS X El Capitan and later, download and install {{% resource_link "b6a4e05b-170b-4fe1-b35e-92b21844355c" "Anaconda" %}} with Python 2.7 for OS X. Anaconda comes with numpy and matplotlib preinstalled, along with many other python libraries, so you may ignore the installation instructions for those libraries in Pset 6.
 
 **Warning:** On the Python homepage, the latest version available for download is actually 3.5. Do not install this! This version is not backwards compatible with the code that you'll be writing in this course (for example, you have to type print("test") instead of print "test"). Instead, be sure to download the version listed above.
 

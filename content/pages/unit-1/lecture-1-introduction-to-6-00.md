@@ -119,7 +119,7 @@ These optional resources are provided for students that wish to explore this top
 
 After watching the lecture, you may want to view some of the following resources:
 
-*   [The Python Standard Library](http://docs.python.org/library/)
+*   {{% resource_link "7e3567aa-76bc-4d87-9ce2-f04ecea444de" "The Python Standard Library" %}}
 *   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
 
 « {{% resource_link 975ad7bf-dd9c-4ffe-26b6-710fa718d5e6 "Previous" %}} | {{% resource_link 5a8ad51b-351a-4b3f-0c09-861452ea827d "Next" %}} »

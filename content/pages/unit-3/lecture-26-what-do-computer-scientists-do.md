@@ -29,7 +29,7 @@ Session Overview
 
 This lecture provides some perspective on the material covered in the course. In addition to giving a high-level view of the topics covered, it provides a glimpse of what one might do with an education in computer science.
 
-_Image courtesy of [caseorganic](http://www.flickr.com/photos/caseorganic/4606080708/in/photostream/) on Flickr._
+_Image courtesy of {{% resource_link "9ee47bc6-390b-42ff-889a-4114f9326d07" "caseorganic" %}} on Flickr._
 
 
 {{< tdclose >}}

@@ -99,7 +99,7 @@ These optional resources are provided for students that wish to explore this top
 
 ### Readings
 
-*   [8.7. Sets—Unordered collections of unique elements](https://web.archive.org/web/20120410204204/http://docs.python.org/library/sets.html). Python Standard Library.
+*   {{% resource_link "4692fb18-778a-4296-beab-38dffd791497" "8.7. Sets—Unordered collections of unique elements" %}}. Python Standard Library.
 
 ### Related Lectures
 

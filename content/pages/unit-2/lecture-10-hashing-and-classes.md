@@ -30,7 +30,7 @@ Session Overview
 
 This lecture starts by showing how hashing can be used to achieve near constant time lookups and the concept of classes as understood by a computer. It then introduces exceptions.
 
-_Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._
+_Image courtesy of {{% resource_link "92556409-d75d-4872-8fc0-82c054a746fe" "donovanbeeson" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -155,7 +155,7 @@ These optional resources are provided for students that wish to explore this top
 
 After watching the lecture, you may want to read some of the following resources:
 
-*   [12\. Classes and objects](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap12.html). How to Think Like a Computer Scientist.
+*   {{% resource_link "0ba53fcd-9cc9-45f0-ae7b-b6e1d14cf2d3" "12\. Classes and objects" %}}. How to Think Like a Computer Scientist.
 
 ### Related Lectures
 
